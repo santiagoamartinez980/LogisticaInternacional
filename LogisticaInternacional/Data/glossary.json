@@ -1,0 +1,358 @@
+[
+  {
+    "term": "Abastecimiento",
+    "definition": "Proceso de asegurar bienes y servicios requeridos por la organización."
+  },
+  {
+    "term": "Agente de carga",
+    "definition": "Intermediario que organiza el transporte y servicios asociados de mercancías."
+  },
+  {
+    "term": "Almacenamiento",
+    "definition": "Custodia organizada de bienes hasta su uso o despacho."
+  },
+  {
+    "term": "Arancel",
+    "definition": "Derecho aplicado a determinadas mercancías importadas."
+  },
+  {
+    "term": "Aprovisionamiento",
+    "definition": "Planificación y adquisición de materiales para asegurar disponibilidad."
+  },
+  {
+    "term": "Backorder",
+    "definition": "Pedido pendiente por falta de disponibilidad inmediata."
+  },
+  {
+    "term": "Cadena de suministro",
+    "definition": "Red de organizaciones, recursos y procesos que hacen llegar productos al usuario."
+  },
+  {
+    "term": "Cadena global de valor",
+    "definition": "Conjunto de actividades de valor distribuidas entre países."
+  },
+  {
+    "term": "Capacidad logística",
+    "definition": "Recursos disponibles para manejar flujos, volúmenes y tiempos."
+  },
+  {
+    "term": "Carga consolidada",
+    "definition": "Agrupación de envíos para aprovechar capacidad de transporte."
+  },
+  {
+    "term": "Centro de distribución",
+    "definition": "Instalación destinada a recibir, preparar y despachar pedidos."
+  },
+  {
+    "term": "Ciclo del pedido",
+    "definition": "Tiempo y etapas desde la solicitud hasta la entrega/cierre."
+  },
+  {
+    "term": "Comercio internacional",
+    "definition": "Intercambio transfronterizo de bienes y servicios."
+  },
+  {
+    "term": "Compras estratégicas",
+    "definition": "Compras orientadas a valor, riesgo y relación de largo plazo."
+  },
+  {
+    "term": "Costo de adquisición",
+    "definition": "Costos necesarios para adquirir un bien."
+  },
+  {
+    "term": "Costo de inventario",
+    "definition": "Costos de mantener existencias, incluidos capital, espacio y obsolescencia."
+  },
+  {
+    "term": "Costo logístico total",
+    "definition": "Suma relevante de costos de aprovisionamiento, almacenamiento, transporte y servicio."
+  },
+  {
+    "term": "Costo puesto en destino",
+    "definition": "Costo de un producto cuando llega al punto definido, con componentes acordados incluidos."
+  },
+  {
+    "term": "Costo-beneficio",
+    "definition": "Comparación sistemática de costos frente a beneficios esperados."
+  },
+  {
+    "term": "Demanda",
+    "definition": "Cantidad que clientes desean y pueden adquirir en un periodo."
+  },
+  {
+    "term": "Distribución",
+    "definition": "Actividades para entregar productos al canal o cliente."
+  },
+  {
+    "term": "EDI",
+    "definition": "Intercambio electrónico estructurado de documentos comerciales."
+  },
+  {
+    "term": "Embalaje",
+    "definition": "Materiales que protegen y agrupan productos para manipulación y transporte."
+  },
+  {
+    "term": "Empaque",
+    "definition": "Presentación y protección inmediata o comercial del producto."
+  },
+  {
+    "term": "Entrega a tiempo",
+    "definition": "Cumplimiento de la fecha acordada para la entrega."
+  },
+  {
+    "term": "ERP",
+    "definition": "Sistema integrado para gestionar procesos y datos empresariales."
+  },
+  {
+    "term": "Exportación",
+    "definition": "Salida legal de mercancías o servicios hacia otro país."
+  },
+  {
+    "term": "FIFO",
+    "definition": "Método de salida de inventario primero en entrar, primero en salir."
+  },
+  {
+    "term": "Flete",
+    "definition": "Precio del servicio de transporte de mercancías."
+  },
+  {
+    "term": "Flujo de información",
+    "definition": "Datos que circulan entre actores para coordinar operaciones."
+  },
+  {
+    "term": "Flujo físico",
+    "definition": "Movimiento de bienes a través de la cadena."
+  },
+  {
+    "term": "Flujo financiero",
+    "definition": "Pagos, cobros y financiación asociados a transacciones."
+  },
+  {
+    "term": "Gestión de inventarios",
+    "definition": "Decisiones sobre cantidad, ubicación y reposición de existencias."
+  },
+  {
+    "term": "Incoterms",
+    "definition": "Reglas de ICC que distribuyen ciertas obligaciones, costos y riesgos entre vendedor y comprador."
+  },
+  {
+    "term": "Indicador KPI",
+    "definition": "Métrica clave usada para evaluar desempeño frente a un objetivo."
+  },
+  {
+    "term": "Índice de competitividad",
+    "definition": "Medida compuesta o comparativa del desempeño competitivo según una metodología."
+  },
+  {
+    "term": "Importación",
+    "definition": "Ingreso legal de mercancías procedentes del exterior."
+  },
+  {
+    "term": "Lead time",
+    "definition": "Tiempo transcurrido entre el inicio y la finalización de un proceso definido."
+  },
+  {
+    "term": "Logística",
+    "definition": "Planificación y control del flujo y almacenamiento de bienes e información."
+  },
+  {
+    "term": "Logística de entrada",
+    "definition": "Flujos de materiales desde proveedores hacia la organización."
+  },
+  {
+    "term": "Logística de salida",
+    "definition": "Preparación y entrega de productos terminados al cliente."
+  },
+  {
+    "term": "Logística verde",
+    "definition": "Prácticas para reducir impactos ambientales de actividades logísticas."
+  },
+  {
+    "term": "Logística integral",
+    "definition": "Coordinación de funciones logísticas como un sistema."
+  },
+  {
+    "term": "Logística inversa",
+    "definition": "Retorno de productos, envases o materiales para recuperación o disposición."
+  },
+  {
+    "term": "Lote económico",
+    "definition": "Cantidad de pedido que equilibra costos de ordenar y mantener inventario bajo supuestos definidos."
+  },
+  {
+    "term": "Matriz de Kraljic",
+    "definition": "Herramienta que segmenta compras por impacto en resultados y riesgo de suministro."
+  },
+  {
+    "term": "MRP",
+    "definition": "Planificación de necesidades de materiales según producción, inventario y plazos."
+  },
+  {
+    "term": "Nivel de servicio",
+    "definition": "Grado en que la operación satisface disponibilidad, puntualidad y calidad esperadas."
+  },
+  {
+    "term": "OTIF",
+    "definition": "Indicador de pedidos entregados a tiempo y completos."
+  },
+  {
+    "term": "Operador 3PL",
+    "definition": "Proveedor externo de servicios logísticos, como transporte o almacenamiento."
+  },
+  {
+    "term": "Operador 4PL",
+    "definition": "Integrador que coordina múltiples proveedores y procesos logísticos."
+  },
+  {
+    "term": "Orden de compra",
+    "definition": "Documento formal que establece artículos, cantidades, precios y condiciones."
+  },
+  {
+    "term": "Picking",
+    "definition": "Selección de artículos para preparar un pedido."
+  },
+  {
+    "term": "Plan de necesidades",
+    "definition": "Cálculo de materiales y fechas requeridas para cumplir un plan."
+  },
+  {
+    "term": "Pronóstico",
+    "definition": "Estimación de demanda futura basada en datos y supuestos."
+  },
+  {
+    "term": "Proveedor",
+    "definition": "Organización que suministra bienes o servicios."
+  },
+  {
+    "term": "Punto de reorden",
+    "definition": "Nivel de inventario que dispara una reposición."
+  },
+  {
+    "term": "Resiliencia",
+    "definition": "Capacidad de anticipar, resistir y recuperarse de interrupciones."
+  },
+  {
+    "term": "Riesgo de suministro",
+    "definition": "Posibilidad de que una compra no esté disponible en cantidad, calidad o tiempo requeridos."
+  },
+  {
+    "term": "Rotación de inventario",
+    "definition": "Indicador de cuántas veces se renueva el inventario en un periodo."
+  },
+  {
+    "term": "SCM",
+    "definition": "Administración coordinada de la cadena de suministro."
+  },
+  {
+    "term": "Servicio al cliente",
+    "definition": "Actividades que apoyan la experiencia y cumplimiento de necesidades del cliente."
+  },
+  {
+    "term": "Sincronización",
+    "definition": "Alineación temporal y operativa entre actividades y socios."
+  },
+  {
+    "term": "Sourcing",
+    "definition": "Búsqueda, análisis y selección de fuentes de suministro."
+  },
+  {
+    "term": "Stock de seguridad",
+    "definition": "Inventario adicional para absorber incertidumbre de demanda o plazo."
+  },
+  {
+    "term": "Trazabilidad",
+    "definition": "Capacidad de seguir el origen, ubicación e historial de un producto."
+  },
+  {
+    "term": "Transitario",
+    "definition": "Agente que organiza operaciones de transporte internacional."
+  },
+  {
+    "term": "Transporte multimodal",
+    "definition": "Uso coordinado de dos o más modos bajo una organización de transporte."
+  },
+  {
+    "term": "Valor agregado",
+    "definition": "Valor creado por actividades que mejoran utilidad, calidad o diferenciación."
+  },
+  {
+    "term": "Ventaja competitiva",
+    "definition": "Atributo que permite superar alternativas para el cliente de forma sostenible."
+  },
+  {
+    "term": "Visibilidad",
+    "definition": "Capacidad de conocer estado, ubicación y eventos de la cadena."
+  },
+  {
+    "term": "Abastecimiento global",
+    "definition": "Búsqueda de bienes y proveedores en mercados internacionales."
+  },
+  {
+    "term": "Aduana",
+    "definition": "Autoridad que controla el ingreso y salida de mercancías."
+  },
+  {
+    "term": "Alianza estratégica",
+    "definition": "Relación colaborativa de largo plazo orientada a objetivos compartidos."
+  },
+  {
+    "term": "Benchmarking",
+    "definition": "Comparación sistemática con referencias para identificar brechas."
+  },
+  {
+    "term": "Bullwhip effect",
+    "definition": "Amplificación de variaciones de demanda a medida que se avanza aguas arriba."
+  },
+  {
+    "term": "Cross-docking",
+    "definition": "Transferencia rápida de mercancía entre recepción y despacho con almacenamiento mínimo."
+  },
+  {
+    "term": "Demoras portuarias",
+    "definition": "Retrasos asociados a operaciones, congestión o trámites portuarios."
+  },
+  {
+    "term": "Desempeño del proveedor",
+    "definition": "Resultados del proveedor en calidad, costo, entrega, servicio y cumplimiento."
+  },
+  {
+    "term": "Diversificación de proveedores",
+    "definition": "Uso de más de una fuente para reducir dependencia."
+  },
+  {
+    "term": "Economías de escala",
+    "definition": "Reducción del costo medio al aumentar volumen, dentro de ciertos límites."
+  },
+  {
+    "term": "Emisión de carbono",
+    "definition": "Cantidad de gases de efecto invernadero atribuible a una actividad."
+  },
+  {
+    "term": "Inventario en tránsito",
+    "definition": "Bienes que se encuentran desplazándose entre puntos de la cadena."
+  },
+  {
+    "term": "Just in time",
+    "definition": "Enfoque que busca entregar recursos cerca del momento de uso, con alta coordinación."
+  },
+  {
+    "term": "Mercado proveedor",
+    "definition": "Conjunto de oferentes disponibles para una categoría de compra."
+  },
+  {
+    "term": "Pedido perfecto",
+    "definition": "Pedido entregado completo, a tiempo, sin daños y con documentación correcta."
+  },
+  {
+    "term": "Ponderación",
+    "definition": "Asignación de pesos relativos a criterios para comparar alternativas."
+  },
+  {
+    "term": "Riesgo geopolítico",
+    "definition": "Exposición a cambios políticos o conflictos que afectan operaciones internacionales."
+  },
+  {
+    "term": "Sostenibilidad logística",
+    "definition": "Gestión que considera impactos económicos, sociales y ambientales."
+  }
+]

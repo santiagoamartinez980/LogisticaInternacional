@@ -1,0 +1,801 @@
+[
+  {
+    "id": "T1.1",
+    "topic": 1,
+    "topicTitle": "Tema 1. Origen de la logística",
+    "title": "Logística militar",
+    "definition": "La logística militar organiza el movimiento, abastecimiento, mantenimiento y apoyo de las fuerzas para que puedan operar en el lugar y momento requeridos.",
+    "explanation": "La logística militar organiza el movimiento, abastecimiento, mantenimiento y apoyo de las fuerzas para que puedan operar en el lugar y momento requeridos. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "En una operación humanitaria internacional, planear combustible, alimentos, transporte y repuestos reproduce principios logísticos militares aplicados a fines civiles.",
+    "commonError": "Confundir logística con transporte: el transporte es solo una parte del sistema.",
+    "reviewQuestion": "¿Por qué la disponibilidad oportuna de suministros es crítica en la logística militar?",
+    "keyConcepts": [
+      "Logística militar",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T1.2",
+    "topic": 1,
+    "topicTitle": "Tema 1. Origen de la logística",
+    "title": "Primeros estudios sobre logística",
+    "definition": "Los primeros estudios formales analizaron cómo coordinar recursos, almacenamiento, transporte e información para cumplir objetivos con eficiencia.",
+    "explanation": "Los primeros estudios formales analizaron cómo coordinar recursos, almacenamiento, transporte e información para cumplir objetivos con eficiencia. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Una empresa importadora compara rutas, inventarios y tiempos de entrega antes de contratar un operador.",
+    "commonError": "Suponer que la logística moderna nació únicamente con el comercio electrónico.",
+    "reviewQuestion": "¿Qué problemas busca resolver el estudio de la logística?",
+    "keyConcepts": [
+      "Primeros estudios sobre logística",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T1.3",
+    "topic": 1,
+    "topicTitle": "Tema 1. Origen de la logística",
+    "title": "Logística básica",
+    "definition": "Comprende planear y controlar el flujo y almacenamiento de bienes, servicios e información desde el origen hasta el consumidor.",
+    "explanation": "Comprende planear y controlar el flujo y almacenamiento de bienes, servicios e información desde el origen hasta el consumidor. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Coordinar recepción de materias primas, inventario y despacho de una carga de café.",
+    "commonError": "Limitar la logística a mover mercancías de un punto a otro.",
+    "reviewQuestion": "¿Qué actividades, además del transporte, incluye la logística básica?",
+    "keyConcepts": [
+      "Logística básica",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T1.4",
+    "topic": 1,
+    "topicTitle": "Tema 1. Origen de la logística",
+    "title": "Logística integral",
+    "definition": "Integra compras, producción, inventario, almacenamiento, transporte y servicio al cliente como un sistema coordinado.",
+    "explanation": "Integra compras, producción, inventario, almacenamiento, transporte y servicio al cliente como un sistema coordinado. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Una exportadora sincroniza compras de empaques, producción, documentación aduanera y salida portuaria.",
+    "commonError": "Optimizar cada área por separado aunque aumente el costo total.",
+    "reviewQuestion": "¿Cómo ayuda la visión integral a reducir costos globales?",
+    "keyConcepts": [
+      "Logística integral",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T1.5",
+    "topic": 1,
+    "topicTitle": "Tema 1. Origen de la logística",
+    "title": "Logística como ventaja competitiva",
+    "definition": "La logística puede diferenciar una empresa mediante menores costos, entregas confiables, flexibilidad y mejor experiencia del cliente.",
+    "explanation": "La logística puede diferenciar una empresa mediante menores costos, entregas confiables, flexibilidad y mejor experiencia del cliente. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Un proveedor que entrega repuestos en 24 horas gana contratos frente a otro más barato pero impredecible.",
+    "commonError": "Evaluar la competitividad solo por el precio del producto.",
+    "reviewQuestion": "¿Qué atributos logísticos pueden diferenciar una oferta?",
+    "keyConcepts": [
+      "Logística como ventaja competitiva",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T1.6",
+    "topic": 1,
+    "topicTitle": "Tema 1. Origen de la logística",
+    "title": "Logística generadora de valor",
+    "definition": "Genera valor al ofrecer utilidad de tiempo, lugar, disponibilidad e información, conservando la calidad del producto.",
+    "explanation": "Genera valor al ofrecer utilidad de tiempo, lugar, disponibilidad e información, conservando la calidad del producto. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Una cadena de frío permite que vacunas lleguen utilizables a un destino distante.",
+    "commonError": "Creer que el valor se crea únicamente durante la fabricación.",
+    "reviewQuestion": "¿Qué utilidad aporta la logística al cliente final?",
+    "keyConcepts": [
+      "Logística generadora de valor",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T2.1",
+    "topic": 2,
+    "topicTitle": "Tema 2. Cadenas de suministro",
+    "title": "Retos",
+    "definition": "Las cadenas enfrentan incertidumbre de demanda, interrupciones, variabilidad de tiempos, riesgos geopolíticos, costos y exigencias ambientales.",
+    "explanation": "Las cadenas enfrentan incertidumbre de demanda, interrupciones, variabilidad de tiempos, riesgos geopolíticos, costos y exigencias ambientales. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Un cierre portuario obliga a una importadora a activar una ruta alternativa y comunicar nuevos plazos.",
+    "commonError": "Diseñar la cadena para un escenario ideal sin planes de contingencia.",
+    "reviewQuestion": "¿Qué medidas aumentan la resiliencia de una cadena?",
+    "keyConcepts": [
+      "Retos",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T2.2",
+    "topic": 2,
+    "topicTitle": "Tema 2. Cadenas de suministro",
+    "title": "Oportunidades",
+    "definition": "La digitalización, colaboración, diversificación, trazabilidad y análisis de datos permiten mejorar servicio, costos y sostenibilidad.",
+    "explanation": "La digitalización, colaboración, diversificación, trazabilidad y análisis de datos permiten mejorar servicio, costos y sostenibilidad. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Compartir pronósticos con proveedores reduce faltantes y compras urgentes.",
+    "commonError": "Adoptar tecnología sin definir el problema operativo que debe resolver.",
+    "reviewQuestion": "¿Cómo puede el intercambio de información crear oportunidades?",
+    "keyConcepts": [
+      "Oportunidades",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T2.3",
+    "topic": 2,
+    "topicTitle": "Tema 2. Cadenas de suministro",
+    "title": "Administración de la cadena de suministro",
+    "definition": "Coordina empresas y procesos desde proveedores iniciales hasta usuarios finales para gestionar abastecimiento, transformación y entrega.",
+    "explanation": "Coordina empresas y procesos desde proveedores iniciales hasta usuarios finales para gestionar abastecimiento, transformación y entrega. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Un fabricante comparte demanda prevista con proveedor, transportista y distribuidor.",
+    "commonError": "Gestionar cada empresa como si no dependiera de las demás.",
+    "reviewQuestion": "¿Qué diferencia hay entre logística interna y administración de la cadena?",
+    "keyConcepts": [
+      "Administración de la cadena de suministro",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T2.4",
+    "topic": 2,
+    "topicTitle": "Tema 2. Cadenas de suministro",
+    "title": "Proveedores de servicios integrados",
+    "definition": "Son operadores que combinan servicios como transporte, almacenamiento, aduanas, seguimiento y distribución, a veces como 3PL o 4PL.",
+    "explanation": "Son operadores que combinan servicios como transporte, almacenamiento, aduanas, seguimiento y distribución, a veces como 3PL o 4PL. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Una exportadora contrata un operador para consolidación, documentación y entrega internacional.",
+    "commonError": "Seleccionar al operador únicamente por la tarifa nominal.",
+    "reviewQuestion": "¿Qué beneficios y riesgos implica integrar servicios logísticos?",
+    "keyConcepts": [
+      "Proveedores de servicios integrados",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T2.5",
+    "topic": 2,
+    "topicTitle": "Tema 2. Cadenas de suministro",
+    "title": "Administración integral",
+    "definition": "Busca decisiones coordinadas entre funciones y socios, equilibrando costo, nivel de servicio, riesgo e impacto ambiental.",
+    "explanation": "Busca decisiones coordinadas entre funciones y socios, equilibrando costo, nivel de servicio, riesgo e impacto ambiental. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Compras, ventas y operaciones acuerdan una política de inventario común.",
+    "commonError": "Transferir costos de un área a otra y considerar que hubo ahorro real.",
+    "reviewQuestion": "¿Qué variables debe equilibrar una administración integral?",
+    "keyConcepts": [
+      "Administración integral",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T2.6",
+    "topic": 2,
+    "topicTitle": "Tema 2. Cadenas de suministro",
+    "title": "Elementos integrantes: conocimiento, físico, propiedad, pago, información y promoción",
+    "definition": "La cadena incorpora flujos de conocimiento, bienes físicos, transferencia de propiedad, pagos, información y promoción; estos flujos se relacionan pero no siempre ocurren simultáneamente.",
+    "explanation": "La cadena incorpora flujos de conocimiento, bienes físicos, transferencia de propiedad, pagos, información y promoción; estos flujos se relacionan pero no siempre ocurren simultáneamente. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "En una importación, la mercancía viaja, los documentos transmiten información, la factura establece el pago y el contrato define la propiedad.",
+    "commonError": "Asumir que el flujo físico y el flujo de propiedad son idénticos.",
+    "reviewQuestion": "¿Por qué conviene distinguir los distintos flujos de la cadena?",
+    "keyConcepts": [
+      "Elementos integrantes: conocimiento, físico, propiedad, pago, información y promoción",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T2.7",
+    "topic": 2,
+    "topicTitle": "Tema 2. Cadenas de suministro",
+    "title": "Flujos y toma de decisiones",
+    "definition": "Los flujos de demanda, pedidos, inventario, dinero e información alimentan decisiones de compra, producción, transporte y reposición.",
+    "explanation": "Los flujos de demanda, pedidos, inventario, dinero e información alimentan decisiones de compra, producción, transporte y reposición. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Datos de ventas y tránsito permiten decidir el punto de reorden de un insumo importado.",
+    "commonError": "Tomar decisiones con datos tardíos o no compartidos.",
+    "reviewQuestion": "¿Qué decisiones se benefician de información oportuna?",
+    "keyConcepts": [
+      "Flujos y toma de decisiones",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T2.8",
+    "topic": 2,
+    "topicTitle": "Tema 2. Cadenas de suministro",
+    "title": "Elementos de la cadena de suministro",
+    "definition": "Incluye proveedores, fabricantes, distribuidores, operadores logísticos, minoristas, clientes y procesos de soporte e información.",
+    "explanation": "Incluye proveedores, fabricantes, distribuidores, operadores logísticos, minoristas, clientes y procesos de soporte e información. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Una cadena de cacao integra agricultores, procesador, exportador, naviera, importador y chocolatería.",
+    "commonError": "Olvidar actores de apoyo como aduanas, aseguradoras o proveedores de información.",
+    "reviewQuestion": "Identifica tres actores y el valor que aporta cada uno.",
+    "keyConcepts": [
+      "Elementos de la cadena de suministro",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T2.9",
+    "topic": 2,
+    "topicTitle": "Tema 2. Cadenas de suministro",
+    "title": "Estructura del mercado proveedor",
+    "definition": "Analiza cantidad y concentración de proveedores, barreras de entrada, sustitutos, poder de negociación, disponibilidad y riesgos geográficos.",
+    "explanation": "Analiza cantidad y concentración de proveedores, barreras de entrada, sustitutos, poder de negociación, disponibilidad y riesgos geográficos. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Una empresa evalúa si depende de un único proveedor de un componente crítico.",
+    "commonError": "Confundir precio bajo con un mercado proveedor seguro y competitivo.",
+    "reviewQuestion": "¿Cómo influye la concentración de proveedores en el riesgo?",
+    "keyConcepts": [
+      "Estructura del mercado proveedor",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T3.1",
+    "topic": 3,
+    "topicTitle": "Tema 3. Sistema logístico",
+    "title": "Logística de aprovisionamiento",
+    "definition": "Asegura que materiales y servicios adecuados estén disponibles en cantidad, calidad, lugar y momento requeridos.",
+    "explanation": "Asegura que materiales y servicios adecuados estén disponibles en cantidad, calidad, lugar y momento requeridos. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Programar la compra de empaques importados considerando fabricación, tránsito y nacionalización.",
+    "commonError": "Comprar tarde por considerar solo el plazo del proveedor y no el internacional completo.",
+    "reviewQuestion": "¿Qué variables deben coordinarse en el aprovisionamiento?",
+    "keyConcepts": [
+      "Logística de aprovisionamiento",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T3.2",
+    "topic": 3,
+    "topicTitle": "Tema 3. Sistema logístico",
+    "title": "Logística de producción",
+    "definition": "Gestiona el movimiento y disponibilidad de materiales dentro del proceso productivo, sincronizando operaciones, capacidad y programación.",
+    "explanation": "Gestiona el movimiento y disponibilidad de materiales dentro del proceso productivo, sincronizando operaciones, capacidad y programación. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Entregar componentes a la línea según el plan de fabricación para evitar paradas.",
+    "commonError": "Acumular inventario en proceso sin atender cuellos de botella.",
+    "reviewQuestion": "¿Cómo contribuye la logística de producción a la continuidad operativa?",
+    "keyConcepts": [
+      "Logística de producción",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T3.3",
+    "topic": 3,
+    "topicTitle": "Tema 3. Sistema logístico",
+    "title": "Logística de distribución",
+    "definition": "Planifica almacenamiento de producto terminado, preparación de pedidos y transporte hasta el cliente o canal.",
+    "explanation": "Planifica almacenamiento de producto terminado, preparación de pedidos y transporte hasta el cliente o canal. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Consolidar pedidos de exportación y coordinar despacho con la reserva de transporte.",
+    "commonError": "Optimizar ocupación del vehículo sacrificando fechas prometidas sin medir el impacto.",
+    "reviewQuestion": "¿Qué decisiones forman parte de la distribución?",
+    "keyConcepts": [
+      "Logística de distribución",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T3.4",
+    "topic": 3,
+    "topicTitle": "Tema 3. Sistema logístico",
+    "title": "Logística inversa y verde",
+    "definition": "La logística inversa recupera productos, envases o materiales; la logística verde reduce impactos ambientales en las operaciones logísticas.",
+    "explanation": "La logística inversa recupera productos, envases o materiales; la logística verde reduce impactos ambientales en las operaciones logísticas. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Retornar pallets reutilizables y consolidar cargas para disminuir viajes vacíos.",
+    "commonError": "Usar la palabra sostenible sin medir residuos, emisiones o recuperación real.",
+    "reviewQuestion": "¿En qué se diferencian logística inversa y logística verde?",
+    "keyConcepts": [
+      "Logística inversa y verde",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T3.5",
+    "topic": 3,
+    "topicTitle": "Tema 3. Sistema logístico",
+    "title": "Objetivos de la logística empresarial",
+    "definition": "Busca servicio confiable al menor costo total razonable, con calidad, flexibilidad, trazabilidad, seguridad y uso eficiente de recursos.",
+    "explanation": "Busca servicio confiable al menor costo total razonable, con calidad, flexibilidad, trazabilidad, seguridad y uso eficiente de recursos. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Definir un nivel de servicio objetivo y equilibrarlo con inventario y transporte.",
+    "commonError": "Reducir una partida de costo aunque genere más devoluciones o retrasos.",
+    "reviewQuestion": "¿Por qué el objetivo es el costo total y no el costo aislado?",
+    "keyConcepts": [
+      "Objetivos de la logística empresarial",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T4.1",
+    "topic": 4,
+    "topicTitle": "Tema 4. Costo-beneficio y precio",
+    "title": "Costo-beneficio",
+    "definition": "Compara costos totales con beneficios esperados para determinar si una alternativa genera valor; puede incluir beneficios económicos y operativos medibles.",
+    "explanation": "Compara costos totales con beneficios esperados para determinar si una alternativa genera valor; puede incluir beneficios económicos y operativos medibles. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Comparar transporte aéreo urgente con marítimo considerando costo de inventario, pérdida por demora y ventas salvadas.",
+    "commonError": "Elegir la alternativa más barata sin valorar consecuencias ni horizonte temporal.",
+    "reviewQuestion": "¿Qué costos y beneficios deben incluirse en una comparación logística?",
+    "keyConcepts": [
+      "Costo-beneficio",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T4.2",
+    "topic": 4,
+    "topicTitle": "Tema 4. Costo-beneficio y precio",
+    "title": "Precio",
+    "definition": "Es el importe acordado por un bien o servicio; debe interpretarse junto con alcance, moneda, condiciones de entrega, impuestos y riesgos asumidos.",
+    "explanation": "Es el importe acordado por un bien o servicio; debe interpretarse junto con alcance, moneda, condiciones de entrega, impuestos y riesgos asumidos. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Dos cotizaciones de transporte tienen tarifas distintas porque una incluye recargos portuarios y otra no.",
+    "commonError": "Comparar precios sin homologar condiciones comerciales e Incoterms aplicables.",
+    "reviewQuestion": "¿Por qué una tarifa nominal no siempre representa el costo final?",
+    "keyConcepts": [
+      "Precio",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T4.3",
+    "topic": 4,
+    "topicTitle": "Tema 4. Costo-beneficio y precio",
+    "title": "Costo total de la compra",
+    "definition": "Suma el precio y los costos necesarios para adquirir y disponer del producto: transporte, seguro, aranceles, tributos no recuperables, manejo, financiación y costos de calidad, según corresponda.",
+    "explanation": "Suma el precio y los costos necesarios para adquirir y disponer del producto: transporte, seguro, aranceles, tributos no recuperables, manejo, financiación y costos de calidad, según corresponda. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Calcular costo puesto en bodega de una materia prima importada, evitando duplicar conceptos incluidos en la cotización.",
+    "commonError": "Olvidar costos de nacionalización o sumar dos veces un recargo incluido.",
+    "reviewQuestion": "¿Qué componentes pueden integrar el costo total de compra?",
+    "keyConcepts": [
+      "Costo total de la compra",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T5.1",
+    "topic": 5,
+    "topicTitle": "Tema 5. Cadena de suministro sincronizada",
+    "title": "Coordinación y administración",
+    "definition": "Sincroniza decisiones, capacidad y tiempos entre socios mediante objetivos comunes, procesos definidos y datos compartidos.",
+    "explanation": "Sincroniza decisiones, capacidad y tiempos entre socios mediante objetivos comunes, procesos definidos y datos compartidos. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Proveedor y comprador acuerdan ventanas de entrega y comparten previsiones de consumo.",
+    "commonError": "Compartir datos sin acordar responsabilidades ni reglas de actuación.",
+    "reviewQuestion": "¿Qué prácticas facilitan la coordinación entre socios?",
+    "keyConcepts": [
+      "Coordinación y administración",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T5.2",
+    "topic": 5,
+    "topicTitle": "Tema 5. Cadena de suministro sincronizada",
+    "title": "Objetivos",
+    "definition": "Busca alinear disponibilidad, rapidez, costo total, calidad, flexibilidad, visibilidad y resiliencia a lo largo de la cadena.",
+    "explanation": "Busca alinear disponibilidad, rapidez, costo total, calidad, flexibilidad, visibilidad y resiliencia a lo largo de la cadena. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Una cadena ajusta inventarios de seguridad según variabilidad de demanda y plazo de reposición.",
+    "commonError": "Perseguir inventario cero sin evaluar incertidumbre y nivel de servicio.",
+    "reviewQuestion": "¿Cómo se relacionan sincronización y nivel de servicio?",
+    "keyConcepts": [
+      "Objetivos",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T5.3",
+    "topic": 5,
+    "topicTitle": "Tema 5. Cadena de suministro sincronizada",
+    "title": "Actividades de la cadena de valor: apoyo y primarias",
+    "definition": "Las actividades primarias abarcan logística de entrada, operaciones, logística de salida, marketing/ventas y servicio; las de apoyo incluyen infraestructura, talento humano, tecnología y abastecimiento.",
+    "explanation": "Las actividades primarias abarcan logística de entrada, operaciones, logística de salida, marketing/ventas y servicio; las de apoyo incluyen infraestructura, talento humano, tecnología y abastecimiento. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "La tecnología de trazabilidad apoya la logística de salida y mejora el servicio posventa.",
+    "commonError": "Clasificar todas las actividades administrativas como primarias sin analizar su función.",
+    "reviewQuestion": "¿Cuáles son las actividades primarias y cuáles las de apoyo?",
+    "keyConcepts": [
+      "Actividades de la cadena de valor: apoyo y primarias",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T6.1",
+    "topic": 6,
+    "topicTitle": "Tema 6. Cadenas globales de valor",
+    "title": "Etapas",
+    "definition": "Una cadena global de valor puede incluir diseño, insumos, producción, ensamblaje, logística, comercialización y servicio, distribuidos entre países.",
+    "explanation": "Una cadena global de valor puede incluir diseño, insumos, producción, ensamblaje, logística, comercialización y servicio, distribuidos entre países. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Un dispositivo se diseña en un país, incorpora componentes de varios orígenes y se ensambla en otro.",
+    "commonError": "Suponer que todo el valor se crea en el país de exportación final.",
+    "reviewQuestion": "¿Qué actividades pueden integrar una cadena global de valor?",
+    "keyConcepts": [
+      "Etapas",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T6.2",
+    "topic": 6,
+    "topicTitle": "Tema 6. Cadenas globales de valor",
+    "title": "Actores",
+    "definition": "Participan empresas líderes, proveedores, fabricantes por contrato, operadores logísticos, gobiernos, certificadores, trabajadores y consumidores.",
+    "explanation": "Participan empresas líderes, proveedores, fabricantes por contrato, operadores logísticos, gobiernos, certificadores, trabajadores y consumidores. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Una marca coordina fabricantes, agente de carga, aduanas y distribuidores de distintos países.",
+    "commonError": "Ignorar la influencia de normas, instituciones y trabajadores en la cadena.",
+    "reviewQuestion": "¿Qué función cumplen los actores de soporte en una cadena global?",
+    "keyConcepts": [
+      "Actores",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T6.3",
+    "topic": 6,
+    "topicTitle": "Tema 6. Cadenas globales de valor",
+    "title": "Importancia",
+    "definition": "Permiten especialización, acceso a mercados y conocimiento, pero también generan dependencias, exposición a interrupciones y desafíos distributivos y ambientales.",
+    "explanation": "Permiten especialización, acceso a mercados y conocimiento, pero también generan dependencias, exposición a interrupciones y desafíos distributivos y ambientales. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Un productor local agrega valor al transformar una materia prima y cumplir estándares de exportación.",
+    "commonError": "Medir el éxito solo por el volumen exportado, sin analizar valor agregado local.",
+    "reviewQuestion": "¿Qué oportunidades y riesgos ofrecen las cadenas globales?",
+    "keyConcepts": [
+      "Importancia",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T7.1",
+    "topic": 7,
+    "topicTitle": "Tema 7. Logística de aprovisionamiento / abastecimiento",
+    "title": "Costo logístico de entrada total",
+    "definition": "Incluye costos desde el proveedor hasta la disponibilidad interna: compra, transporte, seguro, trámites, recepción, inspección, almacenamiento y costos de inventario pertinentes.",
+    "explanation": "Incluye costos desde el proveedor hasta la disponibilidad interna: compra, transporte, seguro, trámites, recepción, inspección, almacenamiento y costos de inventario pertinentes. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Comparar dos proveedores por costo puesto en planta y no solo por precio FOB.",
+    "commonError": "Excluir costos de calidad, demoras o inventario cuando sean relevantes.",
+    "reviewQuestion": "¿Qué costos aparecen entre la compra y la disponibilidad para uso?",
+    "keyConcepts": [
+      "Costo logístico de entrada total",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T7.2",
+    "topic": 7,
+    "topicTitle": "Tema 7. Logística de aprovisionamiento / abastecimiento",
+    "title": "Gestión de compras",
+    "definition": "Comprende identificar necesidades, especificar, buscar fuentes, solicitar ofertas, negociar, contratar, emitir órdenes y evaluar resultados.",
+    "explanation": "Comprende identificar necesidades, especificar, buscar fuentes, solicitar ofertas, negociar, contratar, emitir órdenes y evaluar resultados. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Una empresa solicita cotizaciones comparables para una compra internacional y documenta la decisión.",
+    "commonError": "Comprar de forma reactiva sin especificaciones ni análisis del mercado.",
+    "reviewQuestion": "¿Cuáles son las principales etapas del proceso de compras?",
+    "keyConcepts": [
+      "Gestión de compras",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T7.3",
+    "topic": 7,
+    "topicTitle": "Tema 7. Logística de aprovisionamiento / abastecimiento",
+    "title": "Políticas de compras",
+    "definition": "Definen reglas de autorización, competencia, ética, sostenibilidad, concentración de proveedores, calidad y manejo de conflictos de interés.",
+    "explanation": "Definen reglas de autorización, competencia, ética, sostenibilidad, concentración de proveedores, calidad y manejo de conflictos de interés. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Una política exige tres ofertas cuando el mercado lo permite y justifica excepciones críticas.",
+    "commonError": "Aplicar reglas rígidas sin contemplar urgencias documentadas o mercados especializados.",
+    "reviewQuestion": "¿Qué riesgos ayudan a controlar las políticas de compras?",
+    "keyConcepts": [
+      "Políticas de compras",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T7.4",
+    "topic": 7,
+    "topicTitle": "Tema 7. Logística de aprovisionamiento / abastecimiento",
+    "title": "Plan de necesidades",
+    "definition": "Convierte el plan de producción o ventas en cantidades y fechas requeridas, considerando inventario disponible, pedidos abiertos y plazos de reposición.",
+    "explanation": "Convierte el plan de producción o ventas en cantidades y fechas requeridas, considerando inventario disponible, pedidos abiertos y plazos de reposición. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "El cálculo MRP determina cuándo pedir componentes para cumplir una orden de producción.",
+    "commonError": "Ignorar existencias disponibles y generar compras duplicadas.",
+    "reviewQuestion": "¿Qué información necesita un plan de necesidades fiable?",
+    "keyConcepts": [
+      "Plan de necesidades",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T8.1",
+    "topic": 8,
+    "topicTitle": "Tema 8. Selección de proveedores",
+    "title": "Fuentes",
+    "definition": "Las fuentes incluyen bases internas, ferias, directorios, cámaras, plataformas B2B, referencias, agentes y asociaciones sectoriales; deben verificarse.",
+    "explanation": "Las fuentes incluyen bases internas, ferias, directorios, cámaras, plataformas B2B, referencias, agentes y asociaciones sectoriales; deben verificarse. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Una importadora construye una lista larga y verifica certificaciones y capacidad exportadora.",
+    "commonError": "Confiar en una ficha comercial sin validar existencia, solvencia ni referencias.",
+    "reviewQuestion": "¿Cómo se puede verificar la confiabilidad de una fuente?",
+    "keyConcepts": [
+      "Fuentes",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T8.2",
+    "topic": 8,
+    "topicTitle": "Tema 8. Selección de proveedores",
+    "title": "Ciclo del pedido",
+    "definition": "Abarca solicitud, confirmación, preparación, despacho, transporte, recepción, factura y cierre; el ciclo real incluye variabilidad y comunicación de incidencias.",
+    "explanation": "Abarca solicitud, confirmación, preparación, despacho, transporte, recepción, factura y cierre; el ciclo real incluye variabilidad y comunicación de incidencias. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Medir días desde la emisión de la orden hasta la recepción conforme.",
+    "commonError": "Medir solo el tránsito marítimo y omitir preparación, aduanas y recepción.",
+    "reviewQuestion": "¿Qué hitos deben medirse para conocer el ciclo completo?",
+    "keyConcepts": [
+      "Ciclo del pedido",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T8.3",
+    "topic": 8,
+    "topicTitle": "Tema 8. Selección de proveedores",
+    "title": "Evaluación cuantitativa y cualitativa",
+    "definition": "Las variables cuantitativas son medibles (precio, defectos, entregas a tiempo); las cualitativas requieren juicio estructurado (comunicación, ética, innovación, flexibilidad).",
+    "explanation": "Las variables cuantitativas son medibles (precio, defectos, entregas a tiempo); las cualitativas requieren juicio estructurado (comunicación, ética, innovación, flexibilidad). En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Una matriz pondera costo, calidad, puntualidad, capacidad y sostenibilidad con evidencia verificable.",
+    "commonError": "Asignar puntuaciones subjetivas sin criterios ni evidencias comunes.",
+    "reviewQuestion": "¿Cómo se pueden combinar criterios cuantitativos y cualitativos?",
+    "keyConcepts": [
+      "Evaluación cuantitativa y cualitativa",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T8.4",
+    "topic": 8,
+    "topicTitle": "Tema 8. Selección de proveedores",
+    "title": "Criterios para seleccionar proveedores",
+    "definition": "Los criterios incluyen costo total, calidad, entrega, capacidad, solvencia, cumplimiento legal, sostenibilidad, seguridad, comunicación y riesgo geográfico.",
+    "explanation": "Los criterios incluyen costo total, calidad, entrega, capacidad, solvencia, cumplimiento legal, sostenibilidad, seguridad, comunicación y riesgo geográfico. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Para un insumo crítico, la continuidad y la calidad pesan más que una pequeña diferencia de precio.",
+    "commonError": "Usar los mismos pesos para cualquier categoría de compra.",
+    "reviewQuestion": "¿Por qué los pesos de evaluación deben responder a la criticidad?",
+    "keyConcepts": [
+      "Criterios para seleccionar proveedores",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T9.1",
+    "topic": 9,
+    "topicTitle": "Tema 9. Matriz de Kraljic",
+    "title": "Concepto",
+    "definition": "La matriz de Kraljic segmenta compras según impacto en resultados y riesgo de suministro, para adaptar estrategias de abastecimiento.",
+    "explanation": "La matriz de Kraljic segmenta compras según impacto en resultados y riesgo de suministro, para adaptar estrategias de abastecimiento. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Clasificar materiales de empaque estándar y un componente patentado según impacto y disponibilidad.",
+    "commonError": "Usar la matriz como clasificación permanente sin revisar cambios del mercado.",
+    "reviewQuestion": "¿Qué dos dimensiones definen la matriz de Kraljic?",
+    "keyConcepts": [
+      "Concepto",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T9.2",
+    "topic": 9,
+    "topicTitle": "Tema 9. Matriz de Kraljic",
+    "title": "Cuadrantes",
+    "definition": "Las categorías usuales son no críticos (bajo impacto/bajo riesgo), apalancados (alto impacto/bajo riesgo), cuello de botella (bajo impacto/alto riesgo) y estratégicos (alto impacto/alto riesgo).",
+    "explanation": "Las categorías usuales son no críticos (bajo impacto/bajo riesgo), apalancados (alto impacto/bajo riesgo), cuello de botella (bajo impacto/alto riesgo) y estratégicos (alto impacto/alto riesgo). En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Una materia prima genérica puede ser apalancada; un componente único puede ser cuello de botella o estratégico según su impacto.",
+    "commonError": "Confundir riesgo de suministro con valor monetario del pedido únicamente.",
+    "reviewQuestion": "¿Qué caracteriza a cada cuadrante?",
+    "keyConcepts": [
+      "Cuadrantes",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T9.3",
+    "topic": 9,
+    "topicTitle": "Tema 9. Matriz de Kraljic",
+    "title": "Estrategias por cuadrante",
+    "definition": "No críticos: simplificar y automatizar; apalancados: competir y consolidar volumen; cuello de botella: asegurar disponibilidad y alternativas; estratégicos: colaboración y relación de largo plazo.",
+    "explanation": "No críticos: simplificar y automatizar; apalancados: competir y consolidar volumen; cuello de botella: asegurar disponibilidad y alternativas; estratégicos: colaboración y relación de largo plazo. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Para un insumo estratégico, compartir previsiones y desarrollar capacidad alternativa con el proveedor.",
+    "commonError": "Aplicar presión de precio idéntica a todas las categorías.",
+    "reviewQuestion": "¿Qué estrategia conviene para una compra estratégica?",
+    "keyConcepts": [
+      "Estrategias por cuadrante",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T9.4",
+    "topic": 9,
+    "topicTitle": "Tema 9. Matriz de Kraljic",
+    "title": "Ejemplos aplicados",
+    "definition": "La ubicación depende del impacto operativo/económico y del riesgo real de suministro, no solo de la descripción del artículo.",
+    "explanation": "La ubicación depende del impacto operativo/económico y del riesgo real de suministro, no solo de la descripción del artículo. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Una pieza barata sin sustituto que detiene una línea puede ser de cuello de botella; una materia prima costosa con múltiples oferentes puede ser apalancada.",
+    "commonError": "Clasificar automáticamente un artículo caro como estratégico.",
+    "reviewQuestion": "¿Qué información necesitas para ubicar un insumo correctamente?",
+    "keyConcepts": [
+      "Ejemplos aplicados",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T9.5",
+    "topic": 9,
+    "topicTitle": "Tema 9. Matriz de Kraljic",
+    "title": "Errores comunes",
+    "definition": "Errores frecuentes: no actualizar datos, confundir precio con impacto, ignorar sustitutos, evaluar solo una dimensión y no convertir el análisis en acciones.",
+    "explanation": "Errores frecuentes: no actualizar datos, confundir precio con impacto, ignorar sustitutos, evaluar solo una dimensión y no convertir el análisis en acciones. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Revisar trimestralmente una matriz ante cambios de mercado, demanda o regulación.",
+    "commonError": "Crear la matriz como ejercicio gráfico sin responsables ni planes de acción.",
+    "reviewQuestion": "¿Cómo se convierte la matriz en decisiones de compra?",
+    "keyConcepts": [
+      "Errores comunes",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T10.1",
+    "topic": 10,
+    "topicTitle": "Tema 10. Índices de competitividad",
+    "title": "Definición",
+    "definition": "Los índices de competitividad sintetizan indicadores que permiten comparar desempeño relativo de empresas, sectores o países; su interpretación depende de metodología y contexto.",
+    "explanation": "Los índices de competitividad sintetizan indicadores que permiten comparar desempeño relativo de empresas, sectores o países; su interpretación depende de metodología y contexto. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Una exportadora compara costo logístico por unidad, puntualidad y tiempo aduanero con su línea base.",
+    "commonError": "Comparar índices construidos con metodologías o periodos incompatibles.",
+    "reviewQuestion": "¿Qué precauciones requiere interpretar un índice?",
+    "keyConcepts": [
+      "Definición",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T10.2",
+    "topic": 10,
+    "topicTitle": "Tema 10. Índices de competitividad",
+    "title": "Tipos",
+    "definition": "Pueden ser macroeconómicos, sectoriales, logísticos, empresariales, de costos, productividad, calidad, conectividad o facilitación comercial.",
+    "explanation": "Pueden ser macroeconómicos, sectoriales, logísticos, empresariales, de costos, productividad, calidad, conectividad o facilitación comercial. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Analizar un índice de desempeño logístico junto con datos propios de entregas y costos.",
+    "commonError": "Suponer que un índice nacional explica por sí solo el desempeño de una empresa.",
+    "reviewQuestion": "¿Qué tipo de índice es más útil para cada decisión?",
+    "keyConcepts": [
+      "Tipos",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T10.3",
+    "topic": 10,
+    "topicTitle": "Tema 10. Índices de competitividad",
+    "title": "Indicadores",
+    "definition": "Un indicador define variable, unidad, fórmula, fuente, frecuencia y responsable. Ejemplos: entrega a tiempo, costo logístico/ventas, tasa de defectos y tiempo de ciclo.",
+    "explanation": "Un indicador define variable, unidad, fórmula, fuente, frecuencia y responsable. Ejemplos: entrega a tiempo, costo logístico/ventas, tasa de defectos y tiempo de ciclo. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "OTIF = pedidos completos y a tiempo / pedidos totales × 100.",
+    "commonError": "Usar indicadores sin denominador consistente o sin periodo definido.",
+    "reviewQuestion": "¿Qué elementos hacen que un indicador sea interpretable?",
+    "keyConcepts": [
+      "Indicadores",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T10.4",
+    "topic": 10,
+    "topicTitle": "Tema 10. Índices de competitividad",
+    "title": "Recorrido del semestre",
+    "definition": "Los temas se conectan: estrategia logística, cadena, sistema, costo total, sincronización global, aprovisionamiento, proveedores, Kraljic y medición del desempeño.",
+    "explanation": "Los temas se conectan: estrategia logística, cadena, sistema, costo total, sincronización global, aprovisionamiento, proveedores, Kraljic y medición del desempeño. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Una importación de insumos se analiza desde el proveedor hasta los KPI de costo, calidad y entrega.",
+    "commonError": "Estudiar los temas como listas aisladas sin conectar decisiones y resultados.",
+    "reviewQuestion": "¿Cómo se relaciona la selección de proveedores con la competitividad?",
+    "keyConcepts": [
+      "Recorrido del semestre",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  },
+  {
+    "id": "T10.5",
+    "topic": 10,
+    "topicTitle": "Tema 10. Índices de competitividad",
+    "title": "Ejercicios prácticos",
+    "definition": "Los ejercicios aplican fórmulas y análisis: costo puesto en destino, ponderación de proveedores, OTIF, rotación y comparación de alternativas.",
+    "explanation": "Los ejercicios aplican fórmulas y análisis: costo puesto en destino, ponderación de proveedores, OTIF, rotación y comparación de alternativas. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones.",
+    "example": "Si 92 de 100 pedidos llegan completos y a tiempo, OTIF es 92%.",
+    "commonError": "Confundir puntos porcentuales con variación porcentual o no mostrar unidades.",
+    "reviewQuestion": "¿Cómo verificarías el resultado y la unidad de un KPI?",
+    "keyConcepts": [
+      "Ejercicios prácticos",
+      "costo total",
+      "nivel de servicio",
+      "coordinación"
+    ]
+  }
+]

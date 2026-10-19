@@ -1,0 +1,32 @@
+[
+  {
+    "topic": 1,
+    "title": "Council of Supply Chain Management Professionals (CSCMP)",
+    "url": "https://cscmp.org/",
+    "description": "Glosario, conceptos y recursos profesionales de logística y cadena de suministro."
+  },
+  {
+    "topic": 2,
+    "title": "ASCM",
+    "url": "https://www.ascm.org/",
+    "description": "Recursos sobre planificación y gestión de cadenas de suministro."
+  },
+  {
+    "topic": 4,
+    "title": "ICC – Incoterms",
+    "url": "https://iccwbo.org/business-solutions/incoterms-rules/",
+    "description": "Información oficial sobre reglas Incoterms; consulta la edición aplicable."
+  },
+  {
+    "topic": 6,
+    "title": "UNCTAD",
+    "url": "https://unctad.org/",
+    "description": "Informes de comercio, transporte y cadenas globales de valor."
+  },
+  {
+    "topic": 10,
+    "title": "Banco Mundial – Logistics Performance Index",
+    "url": "https://lpi.worldbank.org/",
+    "description": "Indicadores comparativos de desempeño logístico nacional."
+  }
+]

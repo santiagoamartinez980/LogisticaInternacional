@@ -1,0 +1,132 @@
+[
+  {
+    "id": "C01",
+    "topic": 1,
+    "title": "Caso aplicado: Origen de la logística",
+    "scenario": "En una operación humanitaria internacional, planear combustible, alimentos, transporte y repuestos reproduce principios logísticos militares aplicados a fines civiles. La gerencia debe elegir una alternativa viable y justificarla con información verificable.",
+    "tasks": [
+      "Identifica el problema logístico central.",
+      "Enumera al menos tres datos que solicitarías antes de decidir.",
+      "Propón una decisión y explica sus beneficios, costos y riesgos.",
+      "Define un indicador para verificar el resultado."
+    ],
+    "modelAnswer": "Una respuesta sólida debe relacionar el caso con logística militar, evaluar el costo total y el nivel de servicio, identificar riesgos y definir un KPI con fórmula, unidad y periodo."
+  },
+  {
+    "id": "C02",
+    "topic": 2,
+    "title": "Caso aplicado: Cadenas de suministro",
+    "scenario": "Un cierre portuario obliga a una importadora a activar una ruta alternativa y comunicar nuevos plazos. La gerencia debe elegir una alternativa viable y justificarla con información verificable.",
+    "tasks": [
+      "Identifica el problema logístico central.",
+      "Enumera al menos tres datos que solicitarías antes de decidir.",
+      "Propón una decisión y explica sus beneficios, costos y riesgos.",
+      "Define un indicador para verificar el resultado."
+    ],
+    "modelAnswer": "Una respuesta sólida debe relacionar el caso con retos, evaluar el costo total y el nivel de servicio, identificar riesgos y definir un KPI con fórmula, unidad y periodo."
+  },
+  {
+    "id": "C03",
+    "topic": 3,
+    "title": "Caso aplicado: Sistema logístico",
+    "scenario": "Programar la compra de empaques importados considerando fabricación, tránsito y nacionalización. La gerencia debe elegir una alternativa viable y justificarla con información verificable.",
+    "tasks": [
+      "Identifica el problema logístico central.",
+      "Enumera al menos tres datos que solicitarías antes de decidir.",
+      "Propón una decisión y explica sus beneficios, costos y riesgos.",
+      "Define un indicador para verificar el resultado."
+    ],
+    "modelAnswer": "Una respuesta sólida debe relacionar el caso con logística de aprovisionamiento, evaluar el costo total y el nivel de servicio, identificar riesgos y definir un KPI con fórmula, unidad y periodo."
+  },
+  {
+    "id": "C04",
+    "topic": 4,
+    "title": "Caso aplicado: Costo-beneficio y precio",
+    "scenario": "Comparar transporte aéreo urgente con marítimo considerando costo de inventario, pérdida por demora y ventas salvadas. La gerencia debe elegir una alternativa viable y justificarla con información verificable.",
+    "tasks": [
+      "Identifica el problema logístico central.",
+      "Enumera al menos tres datos que solicitarías antes de decidir.",
+      "Propón una decisión y explica sus beneficios, costos y riesgos.",
+      "Define un indicador para verificar el resultado."
+    ],
+    "modelAnswer": "Una respuesta sólida debe relacionar el caso con costo-beneficio, evaluar el costo total y el nivel de servicio, identificar riesgos y definir un KPI con fórmula, unidad y periodo."
+  },
+  {
+    "id": "C05",
+    "topic": 5,
+    "title": "Caso aplicado: Cadena de suministro sincronizada",
+    "scenario": "Proveedor y comprador acuerdan ventanas de entrega y comparten previsiones de consumo. La gerencia debe elegir una alternativa viable y justificarla con información verificable.",
+    "tasks": [
+      "Identifica el problema logístico central.",
+      "Enumera al menos tres datos que solicitarías antes de decidir.",
+      "Propón una decisión y explica sus beneficios, costos y riesgos.",
+      "Define un indicador para verificar el resultado."
+    ],
+    "modelAnswer": "Una respuesta sólida debe relacionar el caso con coordinación y administración, evaluar el costo total y el nivel de servicio, identificar riesgos y definir un KPI con fórmula, unidad y periodo."
+  },
+  {
+    "id": "C06",
+    "topic": 6,
+    "title": "Caso aplicado: Cadenas globales de valor",
+    "scenario": "Un dispositivo se diseña en un país, incorpora componentes de varios orígenes y se ensambla en otro. La gerencia debe elegir una alternativa viable y justificarla con información verificable.",
+    "tasks": [
+      "Identifica el problema logístico central.",
+      "Enumera al menos tres datos que solicitarías antes de decidir.",
+      "Propón una decisión y explica sus beneficios, costos y riesgos.",
+      "Define un indicador para verificar el resultado."
+    ],
+    "modelAnswer": "Una respuesta sólida debe relacionar el caso con etapas, evaluar el costo total y el nivel de servicio, identificar riesgos y definir un KPI con fórmula, unidad y periodo."
+  },
+  {
+    "id": "C07",
+    "topic": 7,
+    "title": "Caso aplicado: Logística de aprovisionamiento / abastecimiento",
+    "scenario": "Comparar dos proveedores por costo puesto en planta y no solo por precio FOB. La gerencia debe elegir una alternativa viable y justificarla con información verificable.",
+    "tasks": [
+      "Identifica el problema logístico central.",
+      "Enumera al menos tres datos que solicitarías antes de decidir.",
+      "Propón una decisión y explica sus beneficios, costos y riesgos.",
+      "Define un indicador para verificar el resultado."
+    ],
+    "modelAnswer": "Una respuesta sólida debe relacionar el caso con costo logístico de entrada total, evaluar el costo total y el nivel de servicio, identificar riesgos y definir un KPI con fórmula, unidad y periodo."
+  },
+  {
+    "id": "C08",
+    "topic": 8,
+    "title": "Caso aplicado: Selección de proveedores",
+    "scenario": "Una importadora construye una lista larga y verifica certificaciones y capacidad exportadora. La gerencia debe elegir una alternativa viable y justificarla con información verificable.",
+    "tasks": [
+      "Identifica el problema logístico central.",
+      "Enumera al menos tres datos que solicitarías antes de decidir.",
+      "Propón una decisión y explica sus beneficios, costos y riesgos.",
+      "Define un indicador para verificar el resultado."
+    ],
+    "modelAnswer": "Una respuesta sólida debe relacionar el caso con fuentes, evaluar el costo total y el nivel de servicio, identificar riesgos y definir un KPI con fórmula, unidad y periodo."
+  },
+  {
+    "id": "C09",
+    "topic": 9,
+    "title": "Caso aplicado: Matriz de Kraljic",
+    "scenario": "Clasificar materiales de empaque estándar y un componente patentado según impacto y disponibilidad. La gerencia debe elegir una alternativa viable y justificarla con información verificable.",
+    "tasks": [
+      "Identifica el problema logístico central.",
+      "Enumera al menos tres datos que solicitarías antes de decidir.",
+      "Propón una decisión y explica sus beneficios, costos y riesgos.",
+      "Define un indicador para verificar el resultado."
+    ],
+    "modelAnswer": "Una respuesta sólida debe relacionar el caso con concepto, evaluar el costo total y el nivel de servicio, identificar riesgos y definir un KPI con fórmula, unidad y periodo."
+  },
+  {
+    "id": "C10",
+    "topic": 10,
+    "title": "Caso aplicado: Índices de competitividad",
+    "scenario": "Una exportadora compara costo logístico por unidad, puntualidad y tiempo aduanero con su línea base. La gerencia debe elegir una alternativa viable y justificarla con información verificable.",
+    "tasks": [
+      "Identifica el problema logístico central.",
+      "Enumera al menos tres datos que solicitarías antes de decidir.",
+      "Propón una decisión y explica sus beneficios, costos y riesgos.",
+      "Define un indicador para verificar el resultado."
+    ],
+    "modelAnswer": "Una respuesta sólida debe relacionar el caso con definición, evaluar el costo total y el nivel de servicio, identificar riesgos y definir un KPI con fórmula, unidad y periodo."
+  }
+]

@@ -1,0 +1,2308 @@
+[
+  {
+    "id": "Q001",
+    "topic": 1,
+    "subtopicId": "T1.1",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Logística militar»?",
+    "options": [
+      "La logística militar organiza el movimiento, abastecimiento, mantenimiento y apoyo de las fuerzas para que puedan operar en el lugar y momento requeridos.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "La logística militar organiza el movimiento, abastecimiento, mantenimiento y apoyo de las fuerzas para que puedan operar en el lugar y momento requeridos. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q002",
+    "topic": 1,
+    "subtopicId": "T1.1",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Confundir logística con transporte: el transporte es solo una parte del sistema. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. La logística militar organiza el movimiento, abastecimiento, mantenimiento y apoyo de las fuerzas para que puedan operar en el lugar y momento requeridos. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q003",
+    "topic": 1,
+    "subtopicId": "T1.1",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: En una operación humanitaria internacional, planear combustible, alimentos, transporte y repuestos reproduce principios logísticos militares aplicados a fines civiles. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Logística militar",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "En una operación humanitaria internacional, planear combustible, alimentos, transporte y repuestos reproduce principios logísticos militares aplicados a fines civiles. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q004",
+    "topic": 1,
+    "subtopicId": "T1.2",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Primeros estudios sobre logística»?",
+    "options": [
+      "Los primeros estudios formales analizaron cómo coordinar recursos, almacenamiento, transporte e información para cumplir objetivos con eficiencia.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Los primeros estudios formales analizaron cómo coordinar recursos, almacenamiento, transporte e información para cumplir objetivos con eficiencia. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q005",
+    "topic": 1,
+    "subtopicId": "T1.2",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Suponer que la logística moderna nació únicamente con el comercio electrónico. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Los primeros estudios formales analizaron cómo coordinar recursos, almacenamiento, transporte e información para cumplir objetivos con eficiencia. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q006",
+    "topic": 1,
+    "subtopicId": "T1.2",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Una empresa importadora compara rutas, inventarios y tiempos de entrega antes de contratar un operador. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Primeros estudios sobre logística",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Una empresa importadora compara rutas, inventarios y tiempos de entrega antes de contratar un operador. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q007",
+    "topic": 1,
+    "subtopicId": "T1.3",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Logística básica»?",
+    "options": [
+      "Comprende planear y controlar el flujo y almacenamiento de bienes, servicios e información desde el origen hasta el consumidor.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Comprende planear y controlar el flujo y almacenamiento de bienes, servicios e información desde el origen hasta el consumidor. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q008",
+    "topic": 1,
+    "subtopicId": "T1.3",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Limitar la logística a mover mercancías de un punto a otro. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Comprende planear y controlar el flujo y almacenamiento de bienes, servicios e información desde el origen hasta el consumidor. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q009",
+    "topic": 1,
+    "subtopicId": "T1.3",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Coordinar recepción de materias primas, inventario y despacho de una carga de café. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Logística básica",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Coordinar recepción de materias primas, inventario y despacho de una carga de café. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q010",
+    "topic": 1,
+    "subtopicId": "T1.4",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Logística integral»?",
+    "options": [
+      "Integra compras, producción, inventario, almacenamiento, transporte y servicio al cliente como un sistema coordinado.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Integra compras, producción, inventario, almacenamiento, transporte y servicio al cliente como un sistema coordinado. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q011",
+    "topic": 1,
+    "subtopicId": "T1.4",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Optimizar cada área por separado aunque aumente el costo total. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Integra compras, producción, inventario, almacenamiento, transporte y servicio al cliente como un sistema coordinado. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q012",
+    "topic": 1,
+    "subtopicId": "T1.4",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Una exportadora sincroniza compras de empaques, producción, documentación aduanera y salida portuaria. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Logística integral",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Una exportadora sincroniza compras de empaques, producción, documentación aduanera y salida portuaria. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q013",
+    "topic": 1,
+    "subtopicId": "T1.5",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Logística como ventaja competitiva»?",
+    "options": [
+      "La logística puede diferenciar una empresa mediante menores costos, entregas confiables, flexibilidad y mejor experiencia del cliente.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "La logística puede diferenciar una empresa mediante menores costos, entregas confiables, flexibilidad y mejor experiencia del cliente. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q014",
+    "topic": 1,
+    "subtopicId": "T1.5",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Evaluar la competitividad solo por el precio del producto. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. La logística puede diferenciar una empresa mediante menores costos, entregas confiables, flexibilidad y mejor experiencia del cliente. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q015",
+    "topic": 1,
+    "subtopicId": "T1.5",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Un proveedor que entrega repuestos en 24 horas gana contratos frente a otro más barato pero impredecible. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Logística como ventaja competitiva",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Un proveedor que entrega repuestos en 24 horas gana contratos frente a otro más barato pero impredecible. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q016",
+    "topic": 1,
+    "subtopicId": "T1.6",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Logística generadora de valor»?",
+    "options": [
+      "Genera valor al ofrecer utilidad de tiempo, lugar, disponibilidad e información, conservando la calidad del producto.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Genera valor al ofrecer utilidad de tiempo, lugar, disponibilidad e información, conservando la calidad del producto. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q017",
+    "topic": 1,
+    "subtopicId": "T1.6",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Creer que el valor se crea únicamente durante la fabricación. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Genera valor al ofrecer utilidad de tiempo, lugar, disponibilidad e información, conservando la calidad del producto. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q018",
+    "topic": 1,
+    "subtopicId": "T1.6",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Una cadena de frío permite que vacunas lleguen utilizables a un destino distante. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Logística generadora de valor",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Una cadena de frío permite que vacunas lleguen utilizables a un destino distante. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q019",
+    "topic": 2,
+    "subtopicId": "T2.1",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Retos»?",
+    "options": [
+      "Las cadenas enfrentan incertidumbre de demanda, interrupciones, variabilidad de tiempos, riesgos geopolíticos, costos y exigencias ambientales.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Las cadenas enfrentan incertidumbre de demanda, interrupciones, variabilidad de tiempos, riesgos geopolíticos, costos y exigencias ambientales. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q020",
+    "topic": 2,
+    "subtopicId": "T2.1",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Diseñar la cadena para un escenario ideal sin planes de contingencia. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Las cadenas enfrentan incertidumbre de demanda, interrupciones, variabilidad de tiempos, riesgos geopolíticos, costos y exigencias ambientales. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q021",
+    "topic": 2,
+    "subtopicId": "T2.1",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Un cierre portuario obliga a una importadora a activar una ruta alternativa y comunicar nuevos plazos. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Retos",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Un cierre portuario obliga a una importadora a activar una ruta alternativa y comunicar nuevos plazos. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q022",
+    "topic": 2,
+    "subtopicId": "T2.2",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Oportunidades»?",
+    "options": [
+      "La digitalización, colaboración, diversificación, trazabilidad y análisis de datos permiten mejorar servicio, costos y sostenibilidad.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "La digitalización, colaboración, diversificación, trazabilidad y análisis de datos permiten mejorar servicio, costos y sostenibilidad. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q023",
+    "topic": 2,
+    "subtopicId": "T2.2",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Adoptar tecnología sin definir el problema operativo que debe resolver. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. La digitalización, colaboración, diversificación, trazabilidad y análisis de datos permiten mejorar servicio, costos y sostenibilidad. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q024",
+    "topic": 2,
+    "subtopicId": "T2.2",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Compartir pronósticos con proveedores reduce faltantes y compras urgentes. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Oportunidades",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Compartir pronósticos con proveedores reduce faltantes y compras urgentes. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q025",
+    "topic": 2,
+    "subtopicId": "T2.3",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Administración de la cadena de suministro»?",
+    "options": [
+      "Coordina empresas y procesos desde proveedores iniciales hasta usuarios finales para gestionar abastecimiento, transformación y entrega.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Coordina empresas y procesos desde proveedores iniciales hasta usuarios finales para gestionar abastecimiento, transformación y entrega. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q026",
+    "topic": 2,
+    "subtopicId": "T2.3",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Gestionar cada empresa como si no dependiera de las demás. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Coordina empresas y procesos desde proveedores iniciales hasta usuarios finales para gestionar abastecimiento, transformación y entrega. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q027",
+    "topic": 2,
+    "subtopicId": "T2.3",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Un fabricante comparte demanda prevista con proveedor, transportista y distribuidor. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Administración de la cadena de suministro",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Un fabricante comparte demanda prevista con proveedor, transportista y distribuidor. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q028",
+    "topic": 2,
+    "subtopicId": "T2.4",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Proveedores de servicios integrados»?",
+    "options": [
+      "Son operadores que combinan servicios como transporte, almacenamiento, aduanas, seguimiento y distribución, a veces como 3PL o 4PL.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Son operadores que combinan servicios como transporte, almacenamiento, aduanas, seguimiento y distribución, a veces como 3PL o 4PL. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q029",
+    "topic": 2,
+    "subtopicId": "T2.4",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Seleccionar al operador únicamente por la tarifa nominal. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Son operadores que combinan servicios como transporte, almacenamiento, aduanas, seguimiento y distribución, a veces como 3PL o 4PL. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q030",
+    "topic": 2,
+    "subtopicId": "T2.4",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Una exportadora contrata un operador para consolidación, documentación y entrega internacional. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Proveedores de servicios integrados",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Una exportadora contrata un operador para consolidación, documentación y entrega internacional. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q031",
+    "topic": 2,
+    "subtopicId": "T2.5",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Administración integral»?",
+    "options": [
+      "Busca decisiones coordinadas entre funciones y socios, equilibrando costo, nivel de servicio, riesgo e impacto ambiental.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Busca decisiones coordinadas entre funciones y socios, equilibrando costo, nivel de servicio, riesgo e impacto ambiental. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q032",
+    "topic": 2,
+    "subtopicId": "T2.5",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Transferir costos de un área a otra y considerar que hubo ahorro real. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Busca decisiones coordinadas entre funciones y socios, equilibrando costo, nivel de servicio, riesgo e impacto ambiental. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q033",
+    "topic": 2,
+    "subtopicId": "T2.5",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Compras, ventas y operaciones acuerdan una política de inventario común. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Administración integral",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Compras, ventas y operaciones acuerdan una política de inventario común. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q034",
+    "topic": 2,
+    "subtopicId": "T2.6",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Elementos integrantes: conocimiento, físico, propiedad, pago, información y promoción»?",
+    "options": [
+      "La cadena incorpora flujos de conocimiento, bienes físicos, transferencia de propiedad, pagos, información y promoción; estos flujos se relacionan pero no siempre ocurren simultáneamente.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "La cadena incorpora flujos de conocimiento, bienes físicos, transferencia de propiedad, pagos, información y promoción; estos flujos se relacionan pero no siempre ocurren simultáneamente. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q035",
+    "topic": 2,
+    "subtopicId": "T2.6",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Asumir que el flujo físico y el flujo de propiedad son idénticos. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. La cadena incorpora flujos de conocimiento, bienes físicos, transferencia de propiedad, pagos, información y promoción; estos flujos se relacionan pero no siempre ocurren simultáneamente. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q036",
+    "topic": 2,
+    "subtopicId": "T2.6",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: En una importación, la mercancía viaja, los documentos transmiten información, la factura establece el pago y el contrato define la propiedad. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Elementos integrantes: conocimiento, físico, propiedad, pago, información y promoción",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "En una importación, la mercancía viaja, los documentos transmiten información, la factura establece el pago y el contrato define la propiedad. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q037",
+    "topic": 2,
+    "subtopicId": "T2.7",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Flujos y toma de decisiones»?",
+    "options": [
+      "Los flujos de demanda, pedidos, inventario, dinero e información alimentan decisiones de compra, producción, transporte y reposición.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Los flujos de demanda, pedidos, inventario, dinero e información alimentan decisiones de compra, producción, transporte y reposición. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q038",
+    "topic": 2,
+    "subtopicId": "T2.7",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Tomar decisiones con datos tardíos o no compartidos. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Los flujos de demanda, pedidos, inventario, dinero e información alimentan decisiones de compra, producción, transporte y reposición. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q039",
+    "topic": 2,
+    "subtopicId": "T2.7",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Datos de ventas y tránsito permiten decidir el punto de reorden de un insumo importado. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Flujos y toma de decisiones",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Datos de ventas y tránsito permiten decidir el punto de reorden de un insumo importado. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q040",
+    "topic": 2,
+    "subtopicId": "T2.8",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Elementos de la cadena de suministro»?",
+    "options": [
+      "Incluye proveedores, fabricantes, distribuidores, operadores logísticos, minoristas, clientes y procesos de soporte e información.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Incluye proveedores, fabricantes, distribuidores, operadores logísticos, minoristas, clientes y procesos de soporte e información. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q041",
+    "topic": 2,
+    "subtopicId": "T2.8",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Olvidar actores de apoyo como aduanas, aseguradoras o proveedores de información. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Incluye proveedores, fabricantes, distribuidores, operadores logísticos, minoristas, clientes y procesos de soporte e información. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q042",
+    "topic": 2,
+    "subtopicId": "T2.8",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Una cadena de cacao integra agricultores, procesador, exportador, naviera, importador y chocolatería. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Elementos de la cadena de suministro",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Una cadena de cacao integra agricultores, procesador, exportador, naviera, importador y chocolatería. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q043",
+    "topic": 2,
+    "subtopicId": "T2.9",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Estructura del mercado proveedor»?",
+    "options": [
+      "Analiza cantidad y concentración de proveedores, barreras de entrada, sustitutos, poder de negociación, disponibilidad y riesgos geográficos.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Analiza cantidad y concentración de proveedores, barreras de entrada, sustitutos, poder de negociación, disponibilidad y riesgos geográficos. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q044",
+    "topic": 2,
+    "subtopicId": "T2.9",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Confundir precio bajo con un mercado proveedor seguro y competitivo. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Analiza cantidad y concentración de proveedores, barreras de entrada, sustitutos, poder de negociación, disponibilidad y riesgos geográficos. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q045",
+    "topic": 2,
+    "subtopicId": "T2.9",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Una empresa evalúa si depende de un único proveedor de un componente crítico. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Estructura del mercado proveedor",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Una empresa evalúa si depende de un único proveedor de un componente crítico. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q046",
+    "topic": 3,
+    "subtopicId": "T3.1",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Logística de aprovisionamiento»?",
+    "options": [
+      "Asegura que materiales y servicios adecuados estén disponibles en cantidad, calidad, lugar y momento requeridos.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Asegura que materiales y servicios adecuados estén disponibles en cantidad, calidad, lugar y momento requeridos. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q047",
+    "topic": 3,
+    "subtopicId": "T3.1",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Comprar tarde por considerar solo el plazo del proveedor y no el internacional completo. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Asegura que materiales y servicios adecuados estén disponibles en cantidad, calidad, lugar y momento requeridos. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q048",
+    "topic": 3,
+    "subtopicId": "T3.1",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Programar la compra de empaques importados considerando fabricación, tránsito y nacionalización. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Logística de aprovisionamiento",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Programar la compra de empaques importados considerando fabricación, tránsito y nacionalización. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q049",
+    "topic": 3,
+    "subtopicId": "T3.2",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Logística de producción»?",
+    "options": [
+      "Gestiona el movimiento y disponibilidad de materiales dentro del proceso productivo, sincronizando operaciones, capacidad y programación.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Gestiona el movimiento y disponibilidad de materiales dentro del proceso productivo, sincronizando operaciones, capacidad y programación. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q050",
+    "topic": 3,
+    "subtopicId": "T3.2",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Acumular inventario en proceso sin atender cuellos de botella. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Gestiona el movimiento y disponibilidad de materiales dentro del proceso productivo, sincronizando operaciones, capacidad y programación. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q051",
+    "topic": 3,
+    "subtopicId": "T3.2",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Entregar componentes a la línea según el plan de fabricación para evitar paradas. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Logística de producción",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Entregar componentes a la línea según el plan de fabricación para evitar paradas. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q052",
+    "topic": 3,
+    "subtopicId": "T3.3",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Logística de distribución»?",
+    "options": [
+      "Planifica almacenamiento de producto terminado, preparación de pedidos y transporte hasta el cliente o canal.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Planifica almacenamiento de producto terminado, preparación de pedidos y transporte hasta el cliente o canal. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q053",
+    "topic": 3,
+    "subtopicId": "T3.3",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Optimizar ocupación del vehículo sacrificando fechas prometidas sin medir el impacto. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Planifica almacenamiento de producto terminado, preparación de pedidos y transporte hasta el cliente o canal. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q054",
+    "topic": 3,
+    "subtopicId": "T3.3",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Consolidar pedidos de exportación y coordinar despacho con la reserva de transporte. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Logística de distribución",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Consolidar pedidos de exportación y coordinar despacho con la reserva de transporte. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q055",
+    "topic": 3,
+    "subtopicId": "T3.4",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Logística inversa y verde»?",
+    "options": [
+      "La logística inversa recupera productos, envases o materiales; la logística verde reduce impactos ambientales en las operaciones logísticas.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "La logística inversa recupera productos, envases o materiales; la logística verde reduce impactos ambientales en las operaciones logísticas. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q056",
+    "topic": 3,
+    "subtopicId": "T3.4",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Usar la palabra sostenible sin medir residuos, emisiones o recuperación real. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. La logística inversa recupera productos, envases o materiales; la logística verde reduce impactos ambientales en las operaciones logísticas. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q057",
+    "topic": 3,
+    "subtopicId": "T3.4",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Retornar pallets reutilizables y consolidar cargas para disminuir viajes vacíos. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Logística inversa y verde",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Retornar pallets reutilizables y consolidar cargas para disminuir viajes vacíos. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q058",
+    "topic": 3,
+    "subtopicId": "T3.5",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Objetivos de la logística empresarial»?",
+    "options": [
+      "Busca servicio confiable al menor costo total razonable, con calidad, flexibilidad, trazabilidad, seguridad y uso eficiente de recursos.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Busca servicio confiable al menor costo total razonable, con calidad, flexibilidad, trazabilidad, seguridad y uso eficiente de recursos. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q059",
+    "topic": 3,
+    "subtopicId": "T3.5",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Reducir una partida de costo aunque genere más devoluciones o retrasos. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Busca servicio confiable al menor costo total razonable, con calidad, flexibilidad, trazabilidad, seguridad y uso eficiente de recursos. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q060",
+    "topic": 3,
+    "subtopicId": "T3.5",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Definir un nivel de servicio objetivo y equilibrarlo con inventario y transporte. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Objetivos de la logística empresarial",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Definir un nivel de servicio objetivo y equilibrarlo con inventario y transporte. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q061",
+    "topic": 4,
+    "subtopicId": "T4.1",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Costo-beneficio»?",
+    "options": [
+      "Compara costos totales con beneficios esperados para determinar si una alternativa genera valor; puede incluir beneficios económicos y operativos medibles.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Compara costos totales con beneficios esperados para determinar si una alternativa genera valor; puede incluir beneficios económicos y operativos medibles. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q062",
+    "topic": 4,
+    "subtopicId": "T4.1",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Elegir la alternativa más barata sin valorar consecuencias ni horizonte temporal. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Compara costos totales con beneficios esperados para determinar si una alternativa genera valor; puede incluir beneficios económicos y operativos medibles. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q063",
+    "topic": 4,
+    "subtopicId": "T4.1",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Comparar transporte aéreo urgente con marítimo considerando costo de inventario, pérdida por demora y ventas salvadas. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Costo-beneficio",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Comparar transporte aéreo urgente con marítimo considerando costo de inventario, pérdida por demora y ventas salvadas. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q064",
+    "topic": 4,
+    "subtopicId": "T4.2",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Precio»?",
+    "options": [
+      "Es el importe acordado por un bien o servicio; debe interpretarse junto con alcance, moneda, condiciones de entrega, impuestos y riesgos asumidos.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Es el importe acordado por un bien o servicio; debe interpretarse junto con alcance, moneda, condiciones de entrega, impuestos y riesgos asumidos. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q065",
+    "topic": 4,
+    "subtopicId": "T4.2",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Comparar precios sin homologar condiciones comerciales e Incoterms aplicables. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Es el importe acordado por un bien o servicio; debe interpretarse junto con alcance, moneda, condiciones de entrega, impuestos y riesgos asumidos. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q066",
+    "topic": 4,
+    "subtopicId": "T4.2",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Dos cotizaciones de transporte tienen tarifas distintas porque una incluye recargos portuarios y otra no. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Precio",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Dos cotizaciones de transporte tienen tarifas distintas porque una incluye recargos portuarios y otra no. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q067",
+    "topic": 4,
+    "subtopicId": "T4.3",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Costo total de la compra»?",
+    "options": [
+      "Suma el precio y los costos necesarios para adquirir y disponer del producto: transporte, seguro, aranceles, tributos no recuperables, manejo, financiación y costos de calidad, según corresponda.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Suma el precio y los costos necesarios para adquirir y disponer del producto: transporte, seguro, aranceles, tributos no recuperables, manejo, financiación y costos de calidad, según corresponda. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q068",
+    "topic": 4,
+    "subtopicId": "T4.3",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Olvidar costos de nacionalización o sumar dos veces un recargo incluido. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Suma el precio y los costos necesarios para adquirir y disponer del producto: transporte, seguro, aranceles, tributos no recuperables, manejo, financiación y costos de calidad, según corresponda. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q069",
+    "topic": 4,
+    "subtopicId": "T4.3",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Calcular costo puesto en bodega de una materia prima importada, evitando duplicar conceptos incluidos en la cotización. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Costo total de la compra",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Calcular costo puesto en bodega de una materia prima importada, evitando duplicar conceptos incluidos en la cotización. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q070",
+    "topic": 5,
+    "subtopicId": "T5.1",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Coordinación y administración»?",
+    "options": [
+      "Sincroniza decisiones, capacidad y tiempos entre socios mediante objetivos comunes, procesos definidos y datos compartidos.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Sincroniza decisiones, capacidad y tiempos entre socios mediante objetivos comunes, procesos definidos y datos compartidos. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q071",
+    "topic": 5,
+    "subtopicId": "T5.1",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Compartir datos sin acordar responsabilidades ni reglas de actuación. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Sincroniza decisiones, capacidad y tiempos entre socios mediante objetivos comunes, procesos definidos y datos compartidos. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q072",
+    "topic": 5,
+    "subtopicId": "T5.1",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Proveedor y comprador acuerdan ventanas de entrega y comparten previsiones de consumo. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Coordinación y administración",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Proveedor y comprador acuerdan ventanas de entrega y comparten previsiones de consumo. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q073",
+    "topic": 5,
+    "subtopicId": "T5.2",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Objetivos»?",
+    "options": [
+      "Busca alinear disponibilidad, rapidez, costo total, calidad, flexibilidad, visibilidad y resiliencia a lo largo de la cadena.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Busca alinear disponibilidad, rapidez, costo total, calidad, flexibilidad, visibilidad y resiliencia a lo largo de la cadena. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q074",
+    "topic": 5,
+    "subtopicId": "T5.2",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Perseguir inventario cero sin evaluar incertidumbre y nivel de servicio. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Busca alinear disponibilidad, rapidez, costo total, calidad, flexibilidad, visibilidad y resiliencia a lo largo de la cadena. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q075",
+    "topic": 5,
+    "subtopicId": "T5.2",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Una cadena ajusta inventarios de seguridad según variabilidad de demanda y plazo de reposición. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Objetivos",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Una cadena ajusta inventarios de seguridad según variabilidad de demanda y plazo de reposición. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q076",
+    "topic": 5,
+    "subtopicId": "T5.3",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Actividades de la cadena de valor: apoyo y primarias»?",
+    "options": [
+      "Las actividades primarias abarcan logística de entrada, operaciones, logística de salida, marketing/ventas y servicio; las de apoyo incluyen infraestructura, talento humano, tecnología y abastecimiento.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Las actividades primarias abarcan logística de entrada, operaciones, logística de salida, marketing/ventas y servicio; las de apoyo incluyen infraestructura, talento humano, tecnología y abastecimiento. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q077",
+    "topic": 5,
+    "subtopicId": "T5.3",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Clasificar todas las actividades administrativas como primarias sin analizar su función. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Las actividades primarias abarcan logística de entrada, operaciones, logística de salida, marketing/ventas y servicio; las de apoyo incluyen infraestructura, talento humano, tecnología y abastecimiento. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q078",
+    "topic": 5,
+    "subtopicId": "T5.3",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: La tecnología de trazabilidad apoya la logística de salida y mejora el servicio posventa. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Actividades de la cadena de valor: apoyo y primarias",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "La tecnología de trazabilidad apoya la logística de salida y mejora el servicio posventa. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q079",
+    "topic": 6,
+    "subtopicId": "T6.1",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Etapas»?",
+    "options": [
+      "Una cadena global de valor puede incluir diseño, insumos, producción, ensamblaje, logística, comercialización y servicio, distribuidos entre países.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Una cadena global de valor puede incluir diseño, insumos, producción, ensamblaje, logística, comercialización y servicio, distribuidos entre países. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q080",
+    "topic": 6,
+    "subtopicId": "T6.1",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Suponer que todo el valor se crea en el país de exportación final. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Una cadena global de valor puede incluir diseño, insumos, producción, ensamblaje, logística, comercialización y servicio, distribuidos entre países. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q081",
+    "topic": 6,
+    "subtopicId": "T6.1",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Un dispositivo se diseña en un país, incorpora componentes de varios orígenes y se ensambla en otro. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Etapas",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Un dispositivo se diseña en un país, incorpora componentes de varios orígenes y se ensambla en otro. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q082",
+    "topic": 6,
+    "subtopicId": "T6.2",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Actores»?",
+    "options": [
+      "Participan empresas líderes, proveedores, fabricantes por contrato, operadores logísticos, gobiernos, certificadores, trabajadores y consumidores.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Participan empresas líderes, proveedores, fabricantes por contrato, operadores logísticos, gobiernos, certificadores, trabajadores y consumidores. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q083",
+    "topic": 6,
+    "subtopicId": "T6.2",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Ignorar la influencia de normas, instituciones y trabajadores en la cadena. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Participan empresas líderes, proveedores, fabricantes por contrato, operadores logísticos, gobiernos, certificadores, trabajadores y consumidores. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q084",
+    "topic": 6,
+    "subtopicId": "T6.2",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Una marca coordina fabricantes, agente de carga, aduanas y distribuidores de distintos países. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Actores",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Una marca coordina fabricantes, agente de carga, aduanas y distribuidores de distintos países. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q085",
+    "topic": 6,
+    "subtopicId": "T6.3",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Importancia»?",
+    "options": [
+      "Permiten especialización, acceso a mercados y conocimiento, pero también generan dependencias, exposición a interrupciones y desafíos distributivos y ambientales.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Permiten especialización, acceso a mercados y conocimiento, pero también generan dependencias, exposición a interrupciones y desafíos distributivos y ambientales. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q086",
+    "topic": 6,
+    "subtopicId": "T6.3",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Medir el éxito solo por el volumen exportado, sin analizar valor agregado local. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Permiten especialización, acceso a mercados y conocimiento, pero también generan dependencias, exposición a interrupciones y desafíos distributivos y ambientales. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q087",
+    "topic": 6,
+    "subtopicId": "T6.3",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Un productor local agrega valor al transformar una materia prima y cumplir estándares de exportación. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Importancia",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Un productor local agrega valor al transformar una materia prima y cumplir estándares de exportación. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q088",
+    "topic": 7,
+    "subtopicId": "T7.1",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Costo logístico de entrada total»?",
+    "options": [
+      "Incluye costos desde el proveedor hasta la disponibilidad interna: compra, transporte, seguro, trámites, recepción, inspección, almacenamiento y costos de inventario pertinentes.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Incluye costos desde el proveedor hasta la disponibilidad interna: compra, transporte, seguro, trámites, recepción, inspección, almacenamiento y costos de inventario pertinentes. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q089",
+    "topic": 7,
+    "subtopicId": "T7.1",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Excluir costos de calidad, demoras o inventario cuando sean relevantes. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Incluye costos desde el proveedor hasta la disponibilidad interna: compra, transporte, seguro, trámites, recepción, inspección, almacenamiento y costos de inventario pertinentes. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q090",
+    "topic": 7,
+    "subtopicId": "T7.1",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Comparar dos proveedores por costo puesto en planta y no solo por precio FOB. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Costo logístico de entrada total",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Comparar dos proveedores por costo puesto en planta y no solo por precio FOB. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q091",
+    "topic": 7,
+    "subtopicId": "T7.2",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Gestión de compras»?",
+    "options": [
+      "Comprende identificar necesidades, especificar, buscar fuentes, solicitar ofertas, negociar, contratar, emitir órdenes y evaluar resultados.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Comprende identificar necesidades, especificar, buscar fuentes, solicitar ofertas, negociar, contratar, emitir órdenes y evaluar resultados. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q092",
+    "topic": 7,
+    "subtopicId": "T7.2",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Comprar de forma reactiva sin especificaciones ni análisis del mercado. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Comprende identificar necesidades, especificar, buscar fuentes, solicitar ofertas, negociar, contratar, emitir órdenes y evaluar resultados. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q093",
+    "topic": 7,
+    "subtopicId": "T7.2",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Una empresa solicita cotizaciones comparables para una compra internacional y documenta la decisión. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Gestión de compras",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Una empresa solicita cotizaciones comparables para una compra internacional y documenta la decisión. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q094",
+    "topic": 7,
+    "subtopicId": "T7.3",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Políticas de compras»?",
+    "options": [
+      "Definen reglas de autorización, competencia, ética, sostenibilidad, concentración de proveedores, calidad y manejo de conflictos de interés.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Definen reglas de autorización, competencia, ética, sostenibilidad, concentración de proveedores, calidad y manejo de conflictos de interés. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q095",
+    "topic": 7,
+    "subtopicId": "T7.3",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Aplicar reglas rígidas sin contemplar urgencias documentadas o mercados especializados. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Definen reglas de autorización, competencia, ética, sostenibilidad, concentración de proveedores, calidad y manejo de conflictos de interés. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q096",
+    "topic": 7,
+    "subtopicId": "T7.3",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Una política exige tres ofertas cuando el mercado lo permite y justifica excepciones críticas. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Políticas de compras",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Una política exige tres ofertas cuando el mercado lo permite y justifica excepciones críticas. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q097",
+    "topic": 7,
+    "subtopicId": "T7.4",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Plan de necesidades»?",
+    "options": [
+      "Convierte el plan de producción o ventas en cantidades y fechas requeridas, considerando inventario disponible, pedidos abiertos y plazos de reposición.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Convierte el plan de producción o ventas en cantidades y fechas requeridas, considerando inventario disponible, pedidos abiertos y plazos de reposición. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q098",
+    "topic": 7,
+    "subtopicId": "T7.4",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Ignorar existencias disponibles y generar compras duplicadas. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Convierte el plan de producción o ventas en cantidades y fechas requeridas, considerando inventario disponible, pedidos abiertos y plazos de reposición. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q099",
+    "topic": 7,
+    "subtopicId": "T7.4",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: El cálculo MRP determina cuándo pedir componentes para cumplir una orden de producción. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Plan de necesidades",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "El cálculo MRP determina cuándo pedir componentes para cumplir una orden de producción. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q100",
+    "topic": 8,
+    "subtopicId": "T8.1",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Fuentes»?",
+    "options": [
+      "Las fuentes incluyen bases internas, ferias, directorios, cámaras, plataformas B2B, referencias, agentes y asociaciones sectoriales; deben verificarse.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Las fuentes incluyen bases internas, ferias, directorios, cámaras, plataformas B2B, referencias, agentes y asociaciones sectoriales; deben verificarse. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q101",
+    "topic": 8,
+    "subtopicId": "T8.1",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Confiar en una ficha comercial sin validar existencia, solvencia ni referencias. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Las fuentes incluyen bases internas, ferias, directorios, cámaras, plataformas B2B, referencias, agentes y asociaciones sectoriales; deben verificarse. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q102",
+    "topic": 8,
+    "subtopicId": "T8.1",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Una importadora construye una lista larga y verifica certificaciones y capacidad exportadora. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Fuentes",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Una importadora construye una lista larga y verifica certificaciones y capacidad exportadora. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q103",
+    "topic": 8,
+    "subtopicId": "T8.2",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Ciclo del pedido»?",
+    "options": [
+      "Abarca solicitud, confirmación, preparación, despacho, transporte, recepción, factura y cierre; el ciclo real incluye variabilidad y comunicación de incidencias.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Abarca solicitud, confirmación, preparación, despacho, transporte, recepción, factura y cierre; el ciclo real incluye variabilidad y comunicación de incidencias. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q104",
+    "topic": 8,
+    "subtopicId": "T8.2",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Medir solo el tránsito marítimo y omitir preparación, aduanas y recepción. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Abarca solicitud, confirmación, preparación, despacho, transporte, recepción, factura y cierre; el ciclo real incluye variabilidad y comunicación de incidencias. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q105",
+    "topic": 8,
+    "subtopicId": "T8.2",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Medir días desde la emisión de la orden hasta la recepción conforme. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Ciclo del pedido",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Medir días desde la emisión de la orden hasta la recepción conforme. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q106",
+    "topic": 8,
+    "subtopicId": "T8.3",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Evaluación cuantitativa y cualitativa»?",
+    "options": [
+      "Las variables cuantitativas son medibles (precio, defectos, entregas a tiempo); las cualitativas requieren juicio estructurado (comunicación, ética, innovación, flexibilidad).",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Las variables cuantitativas son medibles (precio, defectos, entregas a tiempo); las cualitativas requieren juicio estructurado (comunicación, ética, innovación, flexibilidad). En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q107",
+    "topic": 8,
+    "subtopicId": "T8.3",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Asignar puntuaciones subjetivas sin criterios ni evidencias comunes. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Las variables cuantitativas son medibles (precio, defectos, entregas a tiempo); las cualitativas requieren juicio estructurado (comunicación, ética, innovación, flexibilidad). En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q108",
+    "topic": 8,
+    "subtopicId": "T8.3",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Una matriz pondera costo, calidad, puntualidad, capacidad y sostenibilidad con evidencia verificable. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Evaluación cuantitativa y cualitativa",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Una matriz pondera costo, calidad, puntualidad, capacidad y sostenibilidad con evidencia verificable. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q109",
+    "topic": 8,
+    "subtopicId": "T8.4",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Criterios para seleccionar proveedores»?",
+    "options": [
+      "Los criterios incluyen costo total, calidad, entrega, capacidad, solvencia, cumplimiento legal, sostenibilidad, seguridad, comunicación y riesgo geográfico.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Los criterios incluyen costo total, calidad, entrega, capacidad, solvencia, cumplimiento legal, sostenibilidad, seguridad, comunicación y riesgo geográfico. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q110",
+    "topic": 8,
+    "subtopicId": "T8.4",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Usar los mismos pesos para cualquier categoría de compra. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Los criterios incluyen costo total, calidad, entrega, capacidad, solvencia, cumplimiento legal, sostenibilidad, seguridad, comunicación y riesgo geográfico. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q111",
+    "topic": 8,
+    "subtopicId": "T8.4",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Para un insumo crítico, la continuidad y la calidad pesan más que una pequeña diferencia de precio. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Criterios para seleccionar proveedores",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Para un insumo crítico, la continuidad y la calidad pesan más que una pequeña diferencia de precio. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q112",
+    "topic": 9,
+    "subtopicId": "T9.1",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Concepto»?",
+    "options": [
+      "La matriz de Kraljic segmenta compras según impacto en resultados y riesgo de suministro, para adaptar estrategias de abastecimiento.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "La matriz de Kraljic segmenta compras según impacto en resultados y riesgo de suministro, para adaptar estrategias de abastecimiento. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q113",
+    "topic": 9,
+    "subtopicId": "T9.1",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Usar la matriz como clasificación permanente sin revisar cambios del mercado. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. La matriz de Kraljic segmenta compras según impacto en resultados y riesgo de suministro, para adaptar estrategias de abastecimiento. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q114",
+    "topic": 9,
+    "subtopicId": "T9.1",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Clasificar materiales de empaque estándar y un componente patentado según impacto y disponibilidad. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Concepto",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Clasificar materiales de empaque estándar y un componente patentado según impacto y disponibilidad. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q115",
+    "topic": 9,
+    "subtopicId": "T9.2",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Cuadrantes»?",
+    "options": [
+      "Las categorías usuales son no críticos (bajo impacto/bajo riesgo), apalancados (alto impacto/bajo riesgo), cuello de botella (bajo impacto/alto riesgo) y estratégicos (alto impacto/alto riesgo).",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Las categorías usuales son no críticos (bajo impacto/bajo riesgo), apalancados (alto impacto/bajo riesgo), cuello de botella (bajo impacto/alto riesgo) y estratégicos (alto impacto/alto riesgo). En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q116",
+    "topic": 9,
+    "subtopicId": "T9.2",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Confundir riesgo de suministro con valor monetario del pedido únicamente. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Las categorías usuales son no críticos (bajo impacto/bajo riesgo), apalancados (alto impacto/bajo riesgo), cuello de botella (bajo impacto/alto riesgo) y estratégicos (alto impacto/alto riesgo). En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q117",
+    "topic": 9,
+    "subtopicId": "T9.2",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Una materia prima genérica puede ser apalancada; un componente único puede ser cuello de botella o estratégico según su impacto. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Cuadrantes",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Una materia prima genérica puede ser apalancada; un componente único puede ser cuello de botella o estratégico según su impacto. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q118",
+    "topic": 9,
+    "subtopicId": "T9.3",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Estrategias por cuadrante»?",
+    "options": [
+      "No críticos: simplificar y automatizar; apalancados: competir y consolidar volumen; cuello de botella: asegurar disponibilidad y alternativas; estratégicos: colaboración y relación de largo plazo.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "No críticos: simplificar y automatizar; apalancados: competir y consolidar volumen; cuello de botella: asegurar disponibilidad y alternativas; estratégicos: colaboración y relación de largo plazo. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q119",
+    "topic": 9,
+    "subtopicId": "T9.3",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Aplicar presión de precio idéntica a todas las categorías. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. No críticos: simplificar y automatizar; apalancados: competir y consolidar volumen; cuello de botella: asegurar disponibilidad y alternativas; estratégicos: colaboración y relación de largo plazo. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q120",
+    "topic": 9,
+    "subtopicId": "T9.3",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Para un insumo estratégico, compartir previsiones y desarrollar capacidad alternativa con el proveedor. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Estrategias por cuadrante",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Para un insumo estratégico, compartir previsiones y desarrollar capacidad alternativa con el proveedor. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q121",
+    "topic": 9,
+    "subtopicId": "T9.4",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Ejemplos aplicados»?",
+    "options": [
+      "La ubicación depende del impacto operativo/económico y del riesgo real de suministro, no solo de la descripción del artículo.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "La ubicación depende del impacto operativo/económico y del riesgo real de suministro, no solo de la descripción del artículo. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q122",
+    "topic": 9,
+    "subtopicId": "T9.4",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Clasificar automáticamente un artículo caro como estratégico. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. La ubicación depende del impacto operativo/económico y del riesgo real de suministro, no solo de la descripción del artículo. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q123",
+    "topic": 9,
+    "subtopicId": "T9.4",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Una pieza barata sin sustituto que detiene una línea puede ser de cuello de botella; una materia prima costosa con múltiples oferentes puede ser apalancada. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Ejemplos aplicados",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Una pieza barata sin sustituto que detiene una línea puede ser de cuello de botella; una materia prima costosa con múltiples oferentes puede ser apalancada. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q124",
+    "topic": 9,
+    "subtopicId": "T9.5",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Errores comunes»?",
+    "options": [
+      "Errores frecuentes: no actualizar datos, confundir precio con impacto, ignorar sustitutos, evaluar solo una dimensión y no convertir el análisis en acciones.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Errores frecuentes: no actualizar datos, confundir precio con impacto, ignorar sustitutos, evaluar solo una dimensión y no convertir el análisis en acciones. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q125",
+    "topic": 9,
+    "subtopicId": "T9.5",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Crear la matriz como ejercicio gráfico sin responsables ni planes de acción. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Errores frecuentes: no actualizar datos, confundir precio con impacto, ignorar sustitutos, evaluar solo una dimensión y no convertir el análisis en acciones. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q126",
+    "topic": 9,
+    "subtopicId": "T9.5",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Revisar trimestralmente una matriz ante cambios de mercado, demanda o regulación. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Errores comunes",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Revisar trimestralmente una matriz ante cambios de mercado, demanda o regulación. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q127",
+    "topic": 10,
+    "subtopicId": "T10.1",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Definición»?",
+    "options": [
+      "Los índices de competitividad sintetizan indicadores que permiten comparar desempeño relativo de empresas, sectores o países; su interpretación depende de metodología y contexto.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Los índices de competitividad sintetizan indicadores que permiten comparar desempeño relativo de empresas, sectores o países; su interpretación depende de metodología y contexto. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q128",
+    "topic": 10,
+    "subtopicId": "T10.1",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Comparar índices construidos con metodologías o periodos incompatibles. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Los índices de competitividad sintetizan indicadores que permiten comparar desempeño relativo de empresas, sectores o países; su interpretación depende de metodología y contexto. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q129",
+    "topic": 10,
+    "subtopicId": "T10.1",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Una exportadora compara costo logístico por unidad, puntualidad y tiempo aduanero con su línea base. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Definición",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Una exportadora compara costo logístico por unidad, puntualidad y tiempo aduanero con su línea base. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q130",
+    "topic": 10,
+    "subtopicId": "T10.2",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Tipos»?",
+    "options": [
+      "Pueden ser macroeconómicos, sectoriales, logísticos, empresariales, de costos, productividad, calidad, conectividad o facilitación comercial.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Pueden ser macroeconómicos, sectoriales, logísticos, empresariales, de costos, productividad, calidad, conectividad o facilitación comercial. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q131",
+    "topic": 10,
+    "subtopicId": "T10.2",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Suponer que un índice nacional explica por sí solo el desempeño de una empresa. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Pueden ser macroeconómicos, sectoriales, logísticos, empresariales, de costos, productividad, calidad, conectividad o facilitación comercial. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q132",
+    "topic": 10,
+    "subtopicId": "T10.2",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Analizar un índice de desempeño logístico junto con datos propios de entregas y costos. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Tipos",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Analizar un índice de desempeño logístico junto con datos propios de entregas y costos. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q133",
+    "topic": 10,
+    "subtopicId": "T10.3",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Indicadores»?",
+    "options": [
+      "Un indicador define variable, unidad, fórmula, fuente, frecuencia y responsable. Ejemplos: entrega a tiempo, costo logístico/ventas, tasa de defectos y tiempo de ciclo.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Un indicador define variable, unidad, fórmula, fuente, frecuencia y responsable. Ejemplos: entrega a tiempo, costo logístico/ventas, tasa de defectos y tiempo de ciclo. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q134",
+    "topic": 10,
+    "subtopicId": "T10.3",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Usar indicadores sin denominador consistente o sin periodo definido. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Un indicador define variable, unidad, fórmula, fuente, frecuencia y responsable. Ejemplos: entrega a tiempo, costo logístico/ventas, tasa de defectos y tiempo de ciclo. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q135",
+    "topic": 10,
+    "subtopicId": "T10.3",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: OTIF = pedidos completos y a tiempo / pedidos totales × 100. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Indicadores",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "OTIF = pedidos completos y a tiempo / pedidos totales × 100. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q136",
+    "topic": 10,
+    "subtopicId": "T10.4",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Recorrido del semestre»?",
+    "options": [
+      "Los temas se conectan: estrategia logística, cadena, sistema, costo total, sincronización global, aprovisionamiento, proveedores, Kraljic y medición del desempeño.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Los temas se conectan: estrategia logística, cadena, sistema, costo total, sincronización global, aprovisionamiento, proveedores, Kraljic y medición del desempeño. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q137",
+    "topic": 10,
+    "subtopicId": "T10.4",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Estudiar los temas como listas aisladas sin conectar decisiones y resultados. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Los temas se conectan: estrategia logística, cadena, sistema, costo total, sincronización global, aprovisionamiento, proveedores, Kraljic y medición del desempeño. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q138",
+    "topic": 10,
+    "subtopicId": "T10.4",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Una importación de insumos se analiza desde el proveedor hasta los KPI de costo, calidad y entrega. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Recorrido del semestre",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Una importación de insumos se analiza desde el proveedor hasta los KPI de costo, calidad y entrega. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q139",
+    "topic": 10,
+    "subtopicId": "T10.5",
+    "difficulty": "Básica",
+    "type": "multiple",
+    "prompt": "¿Cuál afirmación describe mejor «Ejercicios prácticos»?",
+    "options": [
+      "Los ejercicios aplican fórmulas y análisis: costo puesto en destino, ponderación de proveedores, OTIF, rotación y comparación de alternativas.",
+      "Es una actividad aislada que solo busca reducir el precio unitario.",
+      "Es un trámite exclusivamente financiero sin relación con el servicio.",
+      "Es una tarea que no requiere coordinación ni información."
+    ],
+    "answerIndex": 0,
+    "explanation": "Los ejercicios aplican fórmulas y análisis: costo puesto en destino, ponderación de proveedores, OTIF, rotación y comparación de alternativas. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q140",
+    "topic": 10,
+    "subtopicId": "T10.5",
+    "difficulty": "Intermedia",
+    "type": "truefalse",
+    "prompt": "Confundir puntos porcentuales con variación porcentual o no mostrar unidades. ¿Es correcto este enfoque?",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "No es el enfoque recomendado. Los ejercicios aplican fórmulas y análisis: costo puesto en destino, ponderación de proveedores, OTIF, rotación y comparación de alternativas. En la práctica, debe analizarse en relación con los objetivos de servicio, costo total, riesgo y necesidades del cliente. En operaciones internacionales también intervienen plazos de tránsito, documentación, regulación y coordinación entre organizaciones."
+  },
+  {
+    "id": "Q141",
+    "topic": 10,
+    "subtopicId": "T10.5",
+    "difficulty": "Aplicada",
+    "type": "multiple",
+    "prompt": "Caso breve: Si 92 de 100 pedidos llegan completos y a tiempo, OTIF es 92%. ¿Qué principio se aplica principalmente?",
+    "options": [
+      "Ejercicios prácticos",
+      "Reducir siempre el inventario a cero, sin evaluar el riesgo.",
+      "Elegir por precio nominal sin comparar condiciones.",
+      "Ignorar información y variabilidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "Si 92 de 100 pedidos llegan completos y a tiempo, OTIF es 92%. La decisión debe justificarse con datos y costo total."
+  },
+  {
+    "id": "Q142",
+    "topic": 1,
+    "subtopicId": "T1.1",
+    "difficulty": "Intermedia",
+    "type": "multiple",
+    "prompt": "¿Qué antecedente histórico ayuda a explicar el enfoque logístico moderno?",
+    "options": [
+      "La coordinación de recursos y abastecimiento para sostener operaciones complejas.",
+      "La eliminación de la planificación.",
+      "La ausencia de transporte.",
+      "La gestión exclusiva de publicidad."
+    ],
+    "answerIndex": 0,
+    "explanation": "La coordinación de recursos y abastecimiento para sostener operaciones complejas. Evalúa la decisión con evidencia, costo total, nivel de servicio y riesgo."
+  },
+  {
+    "id": "Q143",
+    "topic": 2,
+    "subtopicId": "T2.3",
+    "difficulty": "Intermedia",
+    "type": "multiple",
+    "prompt": "¿Qué práctica mejora la administración de una cadena de suministro?",
+    "options": [
+      "Compartir pronósticos e incidencias relevantes entre los actores.",
+      "Ocultar cambios de demanda a los proveedores.",
+      "Medir únicamente el costo de una empresa.",
+      "Evitar acuerdos de coordinación."
+    ],
+    "answerIndex": 0,
+    "explanation": "Compartir pronósticos e incidencias relevantes entre los actores. Evalúa la decisión con evidencia, costo total, nivel de servicio y riesgo."
+  },
+  {
+    "id": "Q144",
+    "topic": 3,
+    "subtopicId": "T3.4",
+    "difficulty": "Intermedia",
+    "type": "multiple",
+    "prompt": "¿Cuál es un ejemplo de logística inversa?",
+    "options": [
+      "Recuperar envases retornables para reutilizarlos.",
+      "Enviar producto nuevo al cliente por primera vez.",
+      "Aumentar viajes vacíos.",
+      "Eliminar el seguimiento de devoluciones."
+    ],
+    "answerIndex": 0,
+    "explanation": "Recuperar envases retornables para reutilizarlos. Evalúa la decisión con evidencia, costo total, nivel de servicio y riesgo."
+  },
+  {
+    "id": "Q145",
+    "topic": 4,
+    "subtopicId": "T4.3",
+    "difficulty": "Intermedia",
+    "type": "multiple",
+    "prompt": "¿Cuál es la mejor base para comparar dos ofertas internacionales?",
+    "options": [
+      "Comparar costos totales bajo condiciones y alcances equivalentes.",
+      "Elegir siempre el menor precio anunciado.",
+      "Comparar monedas sin convertirlas.",
+      "Excluir costos de manejo y seguro en todos los casos."
+    ],
+    "answerIndex": 0,
+    "explanation": "Comparar costos totales bajo condiciones y alcances equivalentes. Evalúa la decisión con evidencia, costo total, nivel de servicio y riesgo."
+  },
+  {
+    "id": "Q146",
+    "topic": 5,
+    "subtopicId": "T5.1",
+    "difficulty": "Intermedia",
+    "type": "multiple",
+    "prompt": "¿Qué caracteriza una cadena sincronizada?",
+    "options": [
+      "Actores coordinados con información y tiempos alineados.",
+      "Cada área decide sin compartir datos.",
+      "Todos los inventarios deben ser cero.",
+      "La coordinación ocurre solo al final."
+    ],
+    "answerIndex": 0,
+    "explanation": "Actores coordinados con información y tiempos alineados. Evalúa la decisión con evidencia, costo total, nivel de servicio y riesgo."
+  },
+  {
+    "id": "Q147",
+    "topic": 6,
+    "subtopicId": "T6.3",
+    "difficulty": "Intermedia",
+    "type": "multiple",
+    "prompt": "¿Qué riesgo puede surgir de una cadena global de valor?",
+    "options": [
+      "Dependencia de proveedores, rutas o regiones específicas.",
+      "Imposibilidad de especialización.",
+      "Ausencia total de oportunidades de mercado.",
+      "Eliminación automática de riesgos regulatorios."
+    ],
+    "answerIndex": 0,
+    "explanation": "Dependencia de proveedores, rutas o regiones específicas. Evalúa la decisión con evidencia, costo total, nivel de servicio y riesgo."
+  },
+  {
+    "id": "Q148",
+    "topic": 7,
+    "subtopicId": "T7.4",
+    "difficulty": "Intermedia",
+    "type": "multiple",
+    "prompt": "¿Qué datos requiere un plan de necesidades de materiales?",
+    "options": [
+      "Demanda prevista, inventario disponible, pedidos abiertos y plazos.",
+      "Solo el precio de lista.",
+      "Únicamente el número de proveedores.",
+      "Solo las ventas del año anterior sin otros datos."
+    ],
+    "answerIndex": 0,
+    "explanation": "Demanda prevista, inventario disponible, pedidos abiertos y plazos. Evalúa la decisión con evidencia, costo total, nivel de servicio y riesgo."
+  },
+  {
+    "id": "Q149",
+    "topic": 8,
+    "subtopicId": "T8.3",
+    "difficulty": "Intermedia",
+    "type": "multiple",
+    "prompt": "¿Cuál es un indicador cuantitativo para evaluar un proveedor?",
+    "options": [
+      "Porcentaje de entregas a tiempo.",
+      "Impresión informal sin criterios.",
+      "Afinidad personal del comprador.",
+      "Percepción no documentada de simpatía."
+    ],
+    "answerIndex": 0,
+    "explanation": "Porcentaje de entregas a tiempo. Evalúa la decisión con evidencia, costo total, nivel de servicio y riesgo."
+  },
+  {
+    "id": "Q150",
+    "topic": 9,
+    "subtopicId": "T9.2",
+    "difficulty": "Intermedia",
+    "type": "multiple",
+    "prompt": "En Kraljic, ¿qué dos dimensiones orientan la segmentación?",
+    "options": [
+      "Impacto en resultados y riesgo de suministro.",
+      "Distancia y color del empaque.",
+      "Número de empleados y antigüedad de la empresa.",
+      "Precio unitario y tamaño del logotipo."
+    ],
+    "answerIndex": 0,
+    "explanation": "Impacto en resultados y riesgo de suministro. Evalúa la decisión con evidencia, costo total, nivel de servicio y riesgo."
+  }
+]

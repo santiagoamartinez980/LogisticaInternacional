@@ -1,0 +1,11 @@
+# Visual Studio
+.vs/
+**/.vs/
+
+# Archivos compilados de .NET
+**/bin/
+**/obj/
+
+# Archivos de usuario de Visual Studio
+*.user
+*.suo

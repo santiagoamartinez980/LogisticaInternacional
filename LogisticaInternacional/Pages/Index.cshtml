@@ -1,0 +1,26 @@
+@page
+@{
+    ViewData["Title"] = "Logística Internacional";
+}
+<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#142d4e"><title>Logística Internacional</title><link rel="stylesheet" href="/styles.css"></head><body><div class="app-shell">
+  <aside class="sidebar">
+    <div class="brand"><span class="brand-mark">LI</span><div><strong>Logística</strong><small>Internacional · UT</small></div></div>
+    <nav id="nav">
+      <button class="nav-item active" data-view="dashboard">⌂ <span>Dashboard</span></button>
+      <button class="nav-item" data-view="theory">▤ <span>Teoría</span></button>
+      <button class="nav-item" data-view="study">✦ <span>Estudio interactivo</span></button>
+      <button class="nav-item quiz-nav" data-view="quiz">✓ <span>Cuestionario</span></button>
+      <button class="nav-item" data-view="notes">✎ <span>Notas</span></button>
+      <button class="nav-item" data-view="tools">⌘ <span>Herramientas</span></button>
+      <button class="nav-item" data-view="progress">▥ <span>Progreso</span></button>
+      <button class="nav-item" data-view="resources">↗ <span>Recursos y casos</span></button>
+    </nav>
+    <div class="sidebar-bottom"><span class="offline-dot"></span> Contenido local · sin cuenta <button id="themeToggle" class="theme-toggle" title="Cambiar tema">◐</button></div>
+  </aside>
+  <main class="main">
+    <header class="topbar"><button id="mobileMenu" class="icon-button" aria-label="Abrir menú">☰</button><div><div class="eyebrow">NEGOCIOS INTERNACIONALES</div><h1 id="pageTitle">Tu espacio de estudio</h1></div><button class="primary small" data-start-quiz="all">＋ Cuestionario libre</button></header>
+    <div id="appContent" class="content" aria-live="polite"><div class="loading">Cargando contenido de estudio…</div></div>
+    <footer>Material académico de apoyo · Revisa las fuentes y adapta los conceptos al programa de tu asignatura.</footer>
+  </main>
+</div>
+<script src="/app.js" defer></script></body></html>
